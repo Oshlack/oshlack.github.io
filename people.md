@@ -29,6 +29,10 @@ permalink: /people/
 * Role: Post-doctoral Researcher
 * Email: belinda.phipson [at] mcri.edu.au
 
+### Dr Anthony Hawkins
+ * Role: Post-doctoral Researcher
+ * Email: anthony.hawkins [at] mcri.edu.au
+
 ### Simon Sadedin  
 * Role: PhD Student 
 * Email: simon.sadedin [at] mcri.edu.au
