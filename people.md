@@ -8,40 +8,40 @@ permalink: /people/
 
 ### Dr Alicia Oshlack
 
-Phone: +61 (3) 9936 6503
-Email: alicia.oshlack@mcri.edu.au
+* Phone: +61 (3) 9936 6503
+* Email: alicia.oshlack [at] mcri.edu.au
 
 ## Current Group Members: 
 
 ### Dr Nadia Davidson
-Role: Research Officer
-Email: nadia.davidson@mcri.edu.au
+* Role: Research Officer
+* Email: nadia.davidson [at] mcri.edu.au
 
 ### Dr Jovana Maksimovic
-Role: Postdoctoral scientist
-Email: jovana.maksimovic@mcri.edu.au
+* Role: Postdoctoral scientist
+* Email: jovana.maksimovic [at] mcri.edu.au
 
 ### Dr Katrina Bell
-Role: Senior Bioinformatics Researcher
-Email: katrina.bell@mcri.edu.au
+* Role: Senior Bioinformatics Researcher
+* Email: katrina.bell [at] mcri.edu.au
 
 ### Dr Belinda Phipson
-Role: Post-doctoral Researcher
-Email: belinda.phipson@mcri.edu.au
+* Role: Post-doctoral Researcher
+* Email: belinda.phipson [at] mcri.edu.au
 
 ### Simon Sadedin  
-Role: PhD Student 
-Email: simon.sadedin [at] mcri.edu.au
+* Role: PhD Student 
+* Email: simon.sadedin [at] mcri.edu.au
 
 ### Harriet Dashnow
-Role: PhD Student/Research Assistant 
-Email: harriet.dashnow@mcri.edu.au
+* Role: PhD Student/Research Assistant 
+* Email: harriet.dashnow [at] mcri.edu.au
 
 ### Michael McLellan  
-Role: Masters Student 
-Email: michael.mclellan@mcri.edu.au
+* Role: Masters Student 
+* Email: michael.mclellan [at] mcri.edu.au
 
 ## Past Group Members
 
 ### Dr Haroon Naeem  
-Role: Post-Doctoral Research Officer haroon.naeem@mcri.edu.au
+* Role: Post-Doctoral Research Officer
