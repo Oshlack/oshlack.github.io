@@ -1,6 +1,6 @@
 # Site settings
 title: Oshlack Lab
-email: alicia.oshacl [at] mcri.edu.au
+email: alicia.oshack [at] mcri.edu.au
 description: > # this means to ignore newlines until "baseurl:"
     The Bioinformatics research group at MCRI focuses on statistical bioinformatics and computational biology. We work on analysis methods for high-throughput sequencing and microarrays and we are involved in many collaborative projects.
 baseurl: "" # the subpath of your site, e.g. /blog/
