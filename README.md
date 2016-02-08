@@ -1,2 +1,2 @@
 # oshlack.github.io
-Oshlack Lab website
+Oshlack Lab website: http://oshlack.github.io/
