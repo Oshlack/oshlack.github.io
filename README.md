@@ -1,6 +1,8 @@
 # oshlack.github.io
 Oshlack Lab website: http://oshlack.github.io/
 
+This is a Jekyll website.
+
 ## How to edit (using only the GitHub website)
 
 * Ask to be given edit rights (ask any of the current admin).
