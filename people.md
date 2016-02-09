@@ -4,6 +4,8 @@ title: People
 permalink: /people/
 ---
 
+![_config.yml]({{ site.baseurl }}/images/MCRI_Xmas_Party_2014_090.jpg)
+
 ## Group Leader: 
 
 ### Dr Alicia Oshlack
