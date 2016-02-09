@@ -54,7 +54,7 @@ permalink: /people/
 ## Past Group Members
 
 ### Dr Christoffer Flensburg  
-* Role: Post-Doctoral Research Officer
+* Role: Post-Doctoral Researcher
 
 ### Dr Haroon Naeem  
-* Role: Post-Doctoral Research Officer
+* Role: Post-Doctoral Researcher
