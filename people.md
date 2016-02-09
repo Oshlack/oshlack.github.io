@@ -43,11 +43,18 @@ permalink: /people/
 * Role: PhD Student/Research Assistant 
 * Email: harriet.dashnow [at] mcri.edu.au
 
+### Luke Zappia
+* Role: PhD Student 
+* Email: luke.zappia [at] mcri.edu.au
+
 ### Michael McLellan  
 * Role: Masters Student 
 * Email: michael.mclellan [at] mcri.edu.au
 
 ## Past Group Members
+
+### Dr Christoffer Flensburg  
+* Role: Post-Doctoral Research Officer
 
 ### Dr Haroon Naeem  
 * Role: Post-Doctoral Research Officer
