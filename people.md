@@ -63,4 +63,3 @@ permalink: /people/
 
 ### Michael McLellan  
 * Role: Masters Student
-* Email: michael.mclellan [at] mcri.edu.au
