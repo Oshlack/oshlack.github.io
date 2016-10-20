@@ -41,7 +41,7 @@ permalink: /people/
 
 ### Dr Rebecca Evans  
 * Role: Research Assistant
-* Email: simon.sadedin [at] mcri.edu.au
+* Email: rebecca.evans [at] mcri.edu.au
 
 ### Harriet Dashnow
 * Role: PhD Student/Research Assistant
