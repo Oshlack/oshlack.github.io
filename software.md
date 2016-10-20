@@ -8,4 +8,6 @@ permalink: /software/
 * [lace](https://github.com/Oshlack/Lace/wiki) - A tool for constructing superTranscripts: a single linear representation of a gene built from constituent transcripts, retaining all exonic sequence in transcriptional order.
 * [JAFFA](https://github.com/Oshlack/JAFFA/wiki) - JAFFA is a multi-step pipeline that takes either raw RNA-Seq reads, or pre-assembled transcripts, then searches for gene fusions.
 * [Corset](https://github.com/Oshlack/Corset/wiki) - Corset is a command-line software program to go from a de novo transcriptome assembly to gene-level counts.
-* [missMethyl](http://www.bioconductor.org/packages/release/bioc/html/missMethyl.html) - Analysing Illumina HumanMethylation BeadChip Data
+* [missMethyl](http://www.bioconductor.org/packages/release/bioc/html/missMethyl.html) - Bioconductor package for analysing data from Illumina's methylation arrays
+* [Cpipe](https://melbournegenomics.github.io/) - Cpipe is an exome sequencing pipeline developed for analysis of exome and targeted sequencing data that is specialised for clinical purposes.
+* [Ximmer](http://ximmer.org/) - Ximmer is a tool for simulation of single copy deletions in targeted sequencing data such as exome data.
