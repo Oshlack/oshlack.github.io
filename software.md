@@ -11,6 +11,7 @@ permalink: /software/
 * [Corset](https://github.com/Oshlack/Corset/wiki) - Go from a de novo transcriptome assembly to gene-level counts.
 * [lace](https://github.com/Oshlack/Lace/wiki) - A tool for constructing superTranscripts: a single linear representation of a gene built from constituent transcripts, retaining all exonic sequence in transcriptional order.
 * [GOseq](http://bioconductor.org/packages/release/bioc/html/goseq.html) - Bioconductor package: Gene Ontology analyser for RNA-seq and other length biased data
+* [Splatter](https://github.com/Oshlack/splatter) - An R package for the simple simulation of single-cell RNA-seq count data.
 
 # Cancer
 * [JAFFA](https://github.com/Oshlack/JAFFA/wiki) - A multi-step pipeline that takes either raw RNA-Seq reads, or pre-assembled transcripts, then searches for gene fusions.
