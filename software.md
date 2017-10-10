@@ -21,7 +21,9 @@ permalink: /software/
 
 # Genomics
 * [Cpipe](https://melbournegenomics.github.io/) - An exome sequencing pipeline developed for analysis of exome and targeted sequencing data that is specialised for clinical purposes.
-* [Ximmer](http://ximmer.org/) - A tool for simulation of single copy deletions in targeted sequencing data such as exome data.
+* [Ximmer](http://ximmer.org/) - A tool for evaluating, running and viewing results of CNV callers for exome and targeted sequencing data
+* [Schism](https://github.com/ssadedin/schism) - A tools for discovering novel, complex, pathogenic structural variation in whole 
+  genome sequencing data.
 
 # Methylation
 * [missMethyl](http://www.bioconductor.org/packages/release/bioc/html/missMethyl.html) - Bioconductor package for analysing data from Illumina's methylation arrays
