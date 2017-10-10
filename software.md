@@ -22,7 +22,7 @@ permalink: /software/
 # Genomics
 * [Cpipe](https://melbournegenomics.github.io/) - An exome sequencing pipeline developed for analysis of exome and targeted sequencing data that is specialised for clinical purposes.
 * [Ximmer](http://ximmer.org/) - A tool for evaluating, running and viewing results of CNV callers for exome and targeted sequencing data
-* [Schism](https://github.com/ssadedin/schism) - A tools for discovering novel, complex, pathogenic structural variation in whole 
+* [Schism](https://github.com/ssadedin/schism) - A tool for discovering novel, complex, pathogenic structural variation in whole 
   genome sequencing data.
 
 # Methylation
