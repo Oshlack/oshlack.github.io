@@ -24,6 +24,7 @@ permalink: /software/
 * [Ximmer](http://ximmer.org/) - A tool for evaluating, running and viewing results of CNV callers for exome and targeted sequencing data
 * [Schism](https://github.com/ssadedin/schism) - A tool for discovering novel, complex, pathogenic structural variation in whole 
   genome sequencing data.
+* [STRetch](https://github.com/Oshlack/STRetch) - A method for detecting and discovering pathogenic short tandem repeats expansions.
 
 # Methylation
 * [missMethyl](http://www.bioconductor.org/packages/release/bioc/html/missMethyl.html) - Bioconductor package for analysing data from Illumina's methylation arrays
