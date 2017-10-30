@@ -51,6 +51,13 @@ permalink: /people/
 * Role: Masters Student
 * Email: breon.schmidt [at] mcri.edu.au
 
+### Andrew Lonsdale
+* Role: Research Assistant
+* Email: andrew.lonsdale [at] mcri.edu.au
+
+### Marek Cmero  
+* Role: Post-doctoral Researcher
+* Email: marek.cmero [at] mcri.edu.au
 
 ## Past Group Members
 
