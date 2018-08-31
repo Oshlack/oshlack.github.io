@@ -78,6 +78,23 @@ permalink: /people/
 * <i class="fas fa-graduation-cap fa-lg"></i><a href="https://scholar.google.com.au/citations?hl=en&user=F_LxcIoAAAAJ&view_op=list_works&sortby=pubdate">  Luke Zappia</a>
 * <img src="https://orcid.org/sites/default/files/images/orcid_32x32.png" style="width:1.5em" alt="ORCID iD icon"><a itemprop="sameAs" href="https://orcid.org/0000-0001-7744-8565" target="orcid.widget" rel="noopener noreferrer">  0000-0001-7744-8565</a>
 
+<table style="width:100%">
+  <tr>
+    <td>
+      <div class="headshot"><img src="/images/cat.jpg"/></div>
+    </td>
+    <td>
+      <h3>Luke Zappia</h3>
+      <h4>PhD student</h4>
+      <p><i class="fas fa-envelope fa-lg"></i> luke.zappia [at] mcri.edu.au</p>
+      <p><i class="fab fa-github fa-lg"></i><a href="https://github.com/lazappi"> lazappi</a></p>
+      <p><i class="fab fa-twitter fa-lg"></i><a href="https://twitter.com/_lazappi_"> _lazappi_</a></p>
+      <p><i class="fas fa-graduation-cap fa-lg"></i><a href="https://scholar.google.com.au/citations?hl=en&user=F_LxcIoAAAAJ&view_op=list_works&sortby=pubdate">Luke Zappia</a></p>
+      <p><img src="https://orcid.org/sites/default/files/images/orcid_32x32.png" style="width:1.5em" alt="ORCID iD icon"><a itemprop="sameAs" href="https://orcid.org/0000-0001-7744-8565" target="orcid.widget" rel="noopener noreferrer">0000-0001-7744-8565</a></p>
+    </td>
+  </tr>
+</table>
+
 ## Past members
 
 * **Dr Anthony Hawkins** - Post-doctoral researcher (2016)
