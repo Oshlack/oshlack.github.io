@@ -202,3 +202,17 @@ pre {
         }
     }
 }
+
+/**
+ * Headshots
+ */
+.headshot {
+    width: 300px;
+    height: 300px;
+}
+
+/* resize images */
+.headshot img {
+    width: 100%;
+    height: auto;
+}
