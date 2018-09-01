@@ -5,13 +5,13 @@ permalink: /software/
 ---
 
 <div class="siema">
-  <div><img src="/images/Lace.png" alt="Lace logo" /></div>
-  <div><img src="/images/Splatter.png" alt="Splatter logo" /></div>
-  <div><img src="/images/Clinker.jpg" alt="Clinker logo" /></div>
-  <div><img src="/images/Clustree.png" alt="Clustree logo" /></div>
-  <div><img src="/images/AllSorts.png" alt="AllSorts logo" /></div>
-  <div><img src="/images/missMethyl.png" alt="missMethyl logo" /></div>
-  <div><img src="/images/scRNAtools.png" alt="scRNAtools logo" /></div>
+  <div class="logo"><img src="/images/missMethyl.png" alt="missMethyl logo" /></div>
+  <div class="logo"><img src="/images/Lace.png" alt="Lace logo" /></div>
+  <div class="logo"><img src="/images/Splatter.png" alt="Splatter logo" /></div>
+  <div class="logo"><img src="/images/Clinker.jpg" alt="Clinker logo" /></div>
+  <div class="logo"><img src="/images/Clustree.png" alt="Clustree logo" /></div>
+  <div class="logo"><img src="/images/AllSorts.png" alt="AllSorts logo" /></div>
+  <div class="logo"><img src="/images/scRNAtools.png" alt="scRNAtools logo" /></div>
 </div>
 
 <script src="/js/siema.min.js" type="text/javascript"></script>
