@@ -37,7 +37,7 @@ permalink: /people/
     <p><img src="https://orcid.org/sites/default/files/images/orcid_32x32.png" style="width:1.5em" alt="ORCID iD icon"><a itemprop="sameAs" href="https://orcid.org/0000-0002-8461-7467" target="orcid.widget" rel="noopener noreferrer"> 0000-0002-8461-7467</a></p>
   </div>
   <div class="col-6_sm-12">
-    <div class="headshot"><img src="/images/cat.jpg"/></div>
+    <div class="headshot"><img src="/images/BelindaPhipson.jpg"/></div>
   </div>
   <div class="col-6_sm-12">
     <h3>Dr Belinda Phipson</h3>
@@ -54,7 +54,7 @@ permalink: /people/
 
 <div class="grid">
   <div class="col-6_sm-12">
-    <div class="headshot"><img src="/images/cat.jpg"/></div>
+    <div class="headshot"><img src="/images/JovanaMaksimovic.jpg"/></div>
   </div>
   <div class="col-6_sm-12">
     <h3>Dr Jovana Maksimovic</h3>
@@ -66,7 +66,7 @@ permalink: /people/
     <p><img src="https://orcid.org/sites/default/files/images/orcid_32x32.png" style="width:1.5em" alt="ORCID iD icon"><a itemprop="sameAs" href="https://orcid.org/0000-0002-9458-3061" target="orcid.widget" rel="noopener noreferrer"> 0000-0002-9458-3061</a></p>
   </div>
   <div class="col-6_sm-12">
-    <div class="headshot"><img src="/images/cat.jpg"/></div>
+    <div class="headshot"><img src="/images/KatrinaBell.jpg"/></div>
   </div>
   <div class="col-6_sm-12">
     <h3>Dr Katrina Bell</h3>
@@ -84,7 +84,7 @@ permalink: /people/
     <p><img src="https://orcid.org/sites/default/files/images/orcid_32x32.png" style="width:1.5em" alt="ORCID iD icon"><a itemprop="sameAs" href="https://orcid.org/0000-0002-2144-7894" target="orcid.widget" rel="noopener noreferrer"> 0000-0002-2144-7894</a></p>
   </div>
   <div class="col-6_sm-12">
-    <div class="headshot"><img src="/images/cat.jpg"/></div>
+    <div class="headshot"><img src="/images/MarekCmero.jpg"/></div>
   </div>
   <div class="col-6_sm-12">
     <h3>Dr Marek Cmero</h3>
@@ -133,7 +133,7 @@ permalink: /people/
     <p><img src="https://orcid.org/sites/default/files/images/orcid_32x32.png" style="width:1.5em" alt="ORCID iD icon"><a itemprop="sameAs" href="https://orcid.org/0000-0001-8433-6270" target="orcid.widget" rel="noopener noreferrer"> 0000-0001-8433-6270</a></p>
   </div>
   <div class="col-6_sm-12">
-    <div class="headshot"><img src="/images/cat.jpg"/></div>
+    <div class="headshot"><img src="/images/LukeZappia.jpg"/></div>
   </div>
   <div class="col-6_sm-12">
   <h3>Luke Zappia</h3>
