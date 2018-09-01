@@ -4,6 +4,26 @@ title: Software
 permalink: /software/
 ---
 
+<div class="siema">
+  <div><img src="/images/Lace.png" alt="Lace logo" /></div>
+  <div><img src="/images/Splatter.png" alt="Splatter logo" /></div>
+  <div><img src="/images/Clinker.jpg" alt="Clinker logo" /></div>
+  <div><img src="/images/Clustree.png" alt="Clustree logo" /></div>
+  <div><img src="/images/AllSorts.png" alt="AllSorts logo" /></div>
+  <div><img src="/images/missMethyl.png" alt="missMethyl logo" /></div>
+  <div><img src="/images/scRNAtools.png" alt="scRNAtools logo" /></div>
+</div>
+
+<script src="/js/siema.min.js" type="text/javascript"></script>
+<script>
+  const mySiema = new Siema({
+    duration: 1000,
+    loop: true,
+  });
+
+  setInterval(() => mySiema.next(), 5000)
+</script>
+
 # Bioinformatics tools
 * [bpipe](http://docs.bpipe.org/) - A tool for running and managing bioinformatics pipelines
 
@@ -22,7 +42,7 @@ permalink: /software/
 # Genomics
 * [Cpipe](https://melbournegenomics.github.io/) - An exome sequencing pipeline developed for analysis of exome and targeted sequencing data that is specialised for clinical purposes.
 * [Ximmer](http://ximmer.org/) - A tool for evaluating, running and viewing results of CNV callers for exome and targeted sequencing data
-* [Schism](https://github.com/ssadedin/schism) - A tool for discovering novel, complex, pathogenic structural variation in whole 
+* [Schism](https://github.com/ssadedin/schism) - A tool for discovering novel, complex, pathogenic structural variation in whole
   genome sequencing data.
 * [STRetch](https://github.com/Oshlack/STRetch) - A method for detecting and discovering pathogenic short tandem repeats expansions.
 
