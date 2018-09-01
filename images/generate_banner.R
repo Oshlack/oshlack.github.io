@@ -1091,9 +1091,9 @@ base_pic <- msg_walk %>%
     y = yval,
     colour = factor(colour),
     shape = factor(shape),
+    size = factor(shape),
     group = id)) +
-  geom_point(show.legend = FALSE,
-             size = 4, alpha = .6) +
+  geom_point(show.legend = FALSE, alpha = .6) +
   coord_equal() +
   theme_void() +
   theme(
@@ -1103,7 +1103,8 @@ base_pic <- msg_walk %>%
     )
   ) +
   scale_color_manual(values = c("#EC008C", "#092F5E")) +
-  scale_shape_manual(values = c(15, 16))
+  scale_shape_manual(values = c(15, 16)) +
+  scale_size_manual(values = c(3, 2))
 
 # construct animation
 pic <- base_pic +
@@ -1118,7 +1119,9 @@ pic <- base_pic +
 
 # create animation
 pic %>% animate(
-  nframes = 300, fps = 25, width = 600,
-  bg = background, detail = 3
+  nframes = 300, fps = 25, width = 800, height = 300,
+  bg = background, detail = 1
 )
 anim_save("banner.gif")
+
+# File size of output can be reduced using https://ezgif.com/optimize
