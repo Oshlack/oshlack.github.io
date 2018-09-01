@@ -6,159 +6,170 @@ permalink: /people/
 
 ## Group Leader
 
-### A/Prof Alicia Oshlack
-
-<div class="headshot"><img src="/images/AliciaOshlack.jpg"/></div>
-
-#### Group leader
-
-<i class="fas fa-envelope fa-lg"></i>`alicia.oshlack [at] mcri.edu.au`
-
-<i class="fas fa-phone fa-lg"></i>+61 (3) 9936 6503
-
-<a href="https://github.com/Oshlack"><i class="fab fa-github fa-2x"></i></a>
-<a href="https://twitter.com/AliciaOshlack"><i class="fab fa-twitter fa-2x"></i></a>
-<a href="https://scholar.google.com.au/citations?hl=en&user=AvhPV40AAAAJ&view_op=list_works&sortby=pubdate"><i class="fas fa-graduation-cap fa-2x"></i></a>
-<a itemprop="sameAs" href="https://orcid.org/0000-0001-9788-5690" target="orcid.widget" rel="noopener noreferrer"><img src="https://orcid.org/sites/default/files/images/orcid_32x32.png" style="width:1.5em" alt="ORCID iD icon"></a>
+<div class="grid">
+  <div class="col-6_sm-12">
+    <div class="headshot"><img src="/images/AliciaOshlack.jpg"/></div>
+  </div>
+  <div class="col-6_sm-12">
+    <h3>A/Prof Alicia Oshlack</h3>
+    <h4>Group leader</h4>
+    <p><i class="fas fa-envelope fa-lg"></i> alicia.oshlack [at] mcri.edu.au</p>
+    <p><i class="fab fa-github fa-lg"></i><a href="https://github.com/Oshlack"> Oshlack</a></p>
+    <p><i class="fab fa-twitter fa-lg"></i><a href="https://twitter.com/AliciaOshlack"> AliciaOshlack</a></p>
+    <p><i class="fas fa-graduation-cap fa-lg"></i><a href="https://scholar.google.com.au/citations?hl=en&user=AvhPV40AAAAJ&view_op=list_works&sortby=pubdate"> Alicia Oshlack</a></p>
+    <p><img src="https://orcid.org/sites/default/files/images/orcid_32x32.png" style="width:1.5em" alt="ORCID iD icon"><a itemprop="sameAs" href="https://orcid.org/0000-0001-9788-5690" target="orcid.widget" rel="noopener noreferrer"> 0000-0001-9788-5690</a></p>
+  </div>
+</div>
 
 ## Team leaders
 
-### Dr Nadia Davidson
-
-<div class="headshot"><img src="/images/cat.jpg"/></div>
-
-#### Team leader
-
-<i class="fas fa-envelope fa-lg"></i>`nadia.davidson [at] mcri.edu.au`
-
-<a href="https://github.com/nadiadavidson"><i class="fab fa-github fa-2x"></i></a>
-<a href="https://twitter.com/nadia_davidson"><i class="fab fa-twitter fa-2x"></i></a>
-<a href="https://scholar.google.com.au/citations?hl=en&user=yqdRNz8AAAAJ&view_op=list_works&sortby=pubdate"><i class="fas fa-graduation-cap fa-2x"></i></a>
-<a itemprop="sameAs" href="https://orcid.org/0000-0002-8461-7467" target="orcid.widget" rel="noopener noreferrer"><img src="https://orcid.org/sites/default/files/images/orcid_32x32.png" style="width:1.5em" alt="ORCID iD icon"></a>
+<div class="grid">
+  <div class="col-6_sm-12">
+    <div class="headshot"><img src="/images/cat.jpg"/></div>
+  </div>
+  <div class="col-6_sm-12">
+    <h3>Dr Nadia Davidson</h3>
+    <h4>Team leader</h4>
+    <p><i class="fas fa-envelope fa-lg"></i> nadia.davidson [at] mcri.edu.au</p>
+    <p><i class="fab fa-github fa-lg"></i><a href="https://github.com/nadiadavidson"> nadiadavidson</a></p>
+    <p><i class="fab fa-twitter fa-lg"></i><a href="https://twitter.com/nadia_davidson"> nadia_davidson</a></p>
+    <p><i class="fas fa-graduation-cap fa-lg"></i><a href="https://scholar.google.com.au/citations?hl=en&user=yqdRNz8AAAAJ&view_op=list_works&sortby=pubdate"> Nadia M Davidson</a></p>
+    <p><img src="https://orcid.org/sites/default/files/images/orcid_32x32.png" style="width:1.5em" alt="ORCID iD icon"><a itemprop="sameAs" href="https://orcid.org/0000-0002-8461-7467" target="orcid.widget" rel="noopener noreferrer"> 0000-0002-8461-7467</a></p>
+  </div>
+  <div class="col-6_sm-12">
+    <div class="headshot"><img src="/images/BelindaPhipson.jpg"/></div>
+  </div>
+  <div class="col-6_sm-12">
+    <h3>Dr Belinda Phipson</h3>
+    <h4>Team leader</h4>
+    <p><i class="fas fa-envelope fa-lg"></i> belinda.phipson [at] mcri.edu.au</p>
+    <p><i class="fab fa-github fa-lg"></i><a href="https://github.com/bphipson"> bphipson</a></p>
+    <p><i class="fab fa-twitter fa-lg"></i><a href="https://twitter.com/BelindaPhipson"> BelindaPhipson</a></p>
+    <p><i class="fas fa-graduation-cap fa-lg"></i><a href="https://scholar.google.com.au/citations?hl=en&user=od4hT8gAAAAJ&view_op=list_works&sortby=pubdate"> Belinda Phipson</a></p>
+    <p><img src="https://orcid.org/sites/default/files/images/orcid_32x32.png" style="width:1.5em" alt="ORCID iD icon"><a itemprop="sameAs" href="https://orcid.org/0000-0002-1711-7454" target="orcid.widget" rel="noopener noreferrer"> 0000-0002-1711-7454</a></p>
+  </div>
+</div>
 
 ## Researchers
 
-### Dr Jovana Maksimovic
-
-<div class="headshot"><img src="/images/cat.jpg"/></div>
-
-#### Post-doctoral scientist
-
-<i class="fas fa-envelope fa-lg"></i>`jovana.maksimovic [at] mcri.edu.au`
-
-<a href="https://github.com/JovMaksimovic"><i class="fab fa-github fa-2x"></i></a>
-<a href="https://twitter.com/JovMaksimovic"><i class="fab fa-twitter fa-2x"></i></a>
-<a href="https://scholar.google.com.au/citations?hl=en&user=j5JT3hkAAAAJ&view_op=list_works&sortby=pubdate"><i class="fas fa-graduation-cap fa-2x"></i></a>
-<a itemprop="sameAs" href="https://orcid.org/0000-0002-9458-3061" target="orcid.widget" rel="noopener noreferrer"><img src="https://orcid.org/sites/default/files/images/orcid_32x32.png" style="width:1.5em" alt="ORCID iD icon"></a>
+<div class="grid">
+  <div class="col-6_sm-12">
+    <div class="headshot"><img src="/images/JovanaMaksimovic.jpg"/></div>
+  </div>
+  <div class="col-6_sm-12">
+    <h3>Dr Jovana Maksimovic</h3>
+    <h4>Post-doctoral researcher</h4>
+    <p><i class="fas fa-envelope fa-lg"></i> jovana.maksimovic [at] mcri.edu.au</p>
+    <p><i class="fab fa-github fa-lg"></i><a href="https://github.com/JovMaksimovic"> JovMaksimovic</a></p>
+    <p><i class="fab fa-twitter fa-lg"></i><a href="https://twitter.com/JovMaksimovic"> JovMaksimovic</a></p>
+    <p><i class="fas fa-graduation-cap fa-lg"></i><a href="https://scholar.google.com.au/citations?hl=en&user=j5JT3hkAAAAJ&view_op=list_works&sortby=pubdate"> Jovana Maksimovic</a></p>
+    <p><img src="https://orcid.org/sites/default/files/images/orcid_32x32.png" style="width:1.5em" alt="ORCID iD icon"><a itemprop="sameAs" href="https://orcid.org/0000-0002-9458-3061" target="orcid.widget" rel="noopener noreferrer"> 0000-0002-9458-3061</a></p>
+  </div>
+  <div class="col-6_sm-12">
+    <div class="headshot"><img src="/images/KatrinaBell.jpg"/></div>
+  </div>
+  <div class="col-6_sm-12">
+    <h3>Dr Katrina Bell</h3>
+    <h4>Senior bioinformatics researcher</h4>
+    <p><i class="fas fa-envelope fa-lg"></i> katrina.bell [at] mcri.edu.au</p>
+  </div>
+    <div class="col-6_sm-12">
+    <div class="headshot"><img src="/images/cat.jpg"/></div>
+  </div>
+  <div class="col-6_sm-12">
+    <h3>Dr Simon Sadedin</h3>
+    <h4>Post-doctoral researcher</h4>
+    <p><i class="fas fa-envelope fa-lg"></i> simon.sadedin [at] mcri.edu.au</p>
+    <p><i class="fab fa-github fa-lg"></i><a href="https://github.com/ssadedin"> ssadedin</a></p>
+    <p><img src="https://orcid.org/sites/default/files/images/orcid_32x32.png" style="width:1.5em" alt="ORCID iD icon"><a itemprop="sameAs" href="https://orcid.org/0000-0002-2144-7894" target="orcid.widget" rel="noopener noreferrer"> 0000-0002-2144-7894</a></p>
+  </div>
+  <div class="col-6_sm-12">
+    <div class="headshot"><img src="/images/MarekCmero.jpg"/></div>
+  </div>
+  <div class="col-6_sm-12">
+    <h3>Dr Marek Cmero</h3>
+    <h4>Post-doctoral researcher</h4>
+    <p><i class="fas fa-envelope fa-lg"></i> marek.cmero [at] mcri.edu.au</p>
+    <p><i class="fab fa-github fa-lg"></i><a href="https://github.com/mcmero"> mcmero</a></p>
+    <p><i class="fab fa-twitter fa-lg"></i><a href="https://twitter.com/marekcmero"> marekcmero</a></p>
+    <p><i class="fas fa-graduation-cap fa-lg"></i><a href="https://scholar.google.com.au/citations?hl=en&user=OQTfAgYAAAAJ&view_op=list_works&sortby=pubdate"> Marek Cmero</a></p>
+    <p><img src="https://orcid.org/sites/default/files/images/orcid_32x32.png" style="width:1.5em" alt="ORCID iD icon"><a itemprop="sameAs" href="https://orcid.org/0000-0001-7783-5530" target="orcid.widget" rel="noopener noreferrer"> 0000-0001-7783-5530</a></p>
+  </div>
+  <div class="col-6_sm-12">
+    <div class="headshot"><img src="/images/cat.jpg"/></div>
+  </div>
+  <div class="col-6_sm-12">
+    <h3>Andrew Lonsdale</h3>
+    <h4>Research assistant</h4>
+    <p><i class="fas fa-envelope fa-lg"></i> andrew.lonsdale [at] mcri.edu.au</p>
+    <p><i class="fab fa-github fa-lg"></i><a href="https://github.com/LonsBio"> LonsBio</a></p>
+    <p><i class="fab fa-twitter fa-lg"></i><a href="https://twitter.com/LonsBio"> LonsBio</a></p>
+    <p><i class="fas fa-graduation-cap fa-lg"></i><a href="https://scholar.google.com.au/citations?hl=en&user=oFwOceEAAAAJ&view_op=list_works&sortby=pubdate"> Andrew Lonsdale</a></p>
+  </div>
+  <div class="col-6_sm-12">
+    <div class="headshot"><img src="/images/cat.jpg"/></div>
+  </div>
+  <div class="col-6_sm-12">
+    <h3>Dr Rebecca Evans</h3>
+    <h4>Research assistant</h4>
+    <p><i class="fas fa-envelope fa-lg"></i> rebeccan.evans [at] mcri.edu.au</p>
+    <p><i class="fab fa-github fa-lg"></i><a href="https://github.com/beccyl"> beccyl</a></p>
+  </div>
+</div>
 
 ## Students
 
-### Harriet Dashnow
-
-<div class="headshot"><img src="/images/HarrietDashnow.jpg"/></div>
-
-#### PhD student/Research assistant
-
-<i class="fas fa-envelope fa-lg"></i>`harriet.dashnow [at] mcri.edu.au`
-
-<a href="https://github.com/hdashnow"><i class="fab fa-github fa-2x"></i></a>
-<a href="https://twitter.com/hdashnow"><i class="fab fa-twitter fa-2x"></i></a>
-<a href="https://scholar.google.com.au/citations?hl=en&user=4Y3m53gAAAAJ&view_op=list_works&sortby=pubdate"><i class="fas fa-graduation-cap fa-2x"></i></a>
-<a itemprop="sameAs" href="https://orcid.org/0000-0001-8433-6270" target="orcid.widget" rel="noopener noreferrer"><img src="https://orcid.org/sites/default/files/images/orcid_32x32.png" style="width:1.5em" alt="ORCID iD icon"></a>
-
-### Luke Zappia
-
-<div class="headshot"><img src="/images/cat.jpg"/></div>
-
-#### PhD student
-
-* <i class="fas fa-envelope fa-lg"></i>  `luke.zappia [at] mcri.edu.au`
-* <i class="fab fa-github fa-lg"></i><a href="https://github.com/lazappi">  lazappi</a>
-* <i class="fab fa-twitter fa-lg"></i><a href="https://twitter.com/_lazappi_">  \_lazappi\_</a>
-* <i class="fas fa-graduation-cap fa-lg"></i><a href="https://scholar.google.com.au/citations?hl=en&user=F_LxcIoAAAAJ&view_op=list_works&sortby=pubdate">  Luke Zappia</a>
-* <img src="https://orcid.org/sites/default/files/images/orcid_32x32.png" style="width:1.5em" alt="ORCID iD icon"><a itemprop="sameAs" href="https://orcid.org/0000-0001-7744-8565" target="orcid.widget" rel="noopener noreferrer">  0000-0001-7744-8565</a>
-
-<table style="width:100%">
-  <tr>
-    <td>
-      <div class="headshot"><img src="/images/cat.jpg"/></div>
-    </td>
-    <td>
-      <h3>Luke Zappia</h3>
-      <h4>PhD student</h4>
-      <p><i class="fas fa-envelope fa-lg"></i> luke.zappia [at] mcri.edu.au</p>
-      <p><i class="fab fa-github fa-lg"></i><a href="https://github.com/lazappi"> lazappi</a></p>
-      <p><i class="fab fa-twitter fa-lg"></i><a href="https://twitter.com/_lazappi_"> _lazappi_</a></p>
-      <p><i class="fas fa-graduation-cap fa-lg"></i><a href="https://scholar.google.com.au/citations?hl=en&user=F_LxcIoAAAAJ&view_op=list_works&sortby=pubdate">Luke Zappia</a></p>
-      <p><img src="https://orcid.org/sites/default/files/images/orcid_32x32.png" style="width:1.5em" alt="ORCID iD icon"><a itemprop="sameAs" href="https://orcid.org/0000-0001-7744-8565" target="orcid.widget" rel="noopener noreferrer">0000-0001-7744-8565</a></p>
-    </td>
-  </tr>
-</table>
+<div class="grid">
+  <div class="col-6_sm-12">
+    <div class="headshot"><img src="/images/HarrietDashnow.jpg"/></div>
+  </div>
+  <div class="col-6_sm-12">
+    <h3>Harriet Dashnow</h3>
+    <h4>PhD student/Research assistant</h4>
+    <p><i class="fas fa-envelope fa-lg"></i> harriet.dashnow [at] mcri.edu.au</p>
+    <p><i class="fab fa-github fa-lg"></i><a href="https://github.com/hdashnow"> hdashnow</a></p>
+    <p><i class="fab fa-twitter fa-lg"></i><a href="https://twitter.com/hdashnow"> hdashnow</a></p>
+    <p><i class="fas fa-graduation-cap fa-lg"></i><a href="https://scholar.google.com.au/citations?hl=en&user=4Y3m53gAAAAJ&view_op=list_works&sortby=pubdate"> Harriet Dashnow</a></p>
+    <p><img src="https://orcid.org/sites/default/files/images/orcid_32x32.png" style="width:1.5em" alt="ORCID iD icon"><a itemprop="sameAs" href="https://orcid.org/0000-0001-8433-6270" target="orcid.widget" rel="noopener noreferrer"> 0000-0001-8433-6270</a></p>
+  </div>
+  <div class="col-6_sm-12">
+    <div class="headshot"><img src="/images/LukeZappia.jpg"/></div>
+  </div>
+  <div class="col-6_sm-12">
+  <h3>Luke Zappia</h3>
+    <h4>PhD student</h4>
+    <p><i class="fas fa-envelope fa-lg"></i> luke.zappia [at] mcri.edu.au</p>
+    <p><i class="fab fa-github fa-lg"></i><a href="https://github.com/lazappi"> lazappi</a></p>
+    <p><i class="fab fa-twitter fa-lg"></i><a href="https://twitter.com/_lazappi_"> _lazappi_</a></p>
+    <p><i class="fas fa-graduation-cap fa-lg"></i><a href="https://scholar.google.com.au/citations?hl=en&user=F_LxcIoAAAAJ&view_op=list_works&sortby=pubdate"> Luke Zappia</a></p>
+    <p><img src="https://orcid.org/sites/default/files/images/orcid_32x32.png" style="width:1.5em" alt="ORCID iD icon"><a itemprop="sameAs" href="https://orcid.org/0000-0001-7744-8565" target="orcid.widget" rel="noopener noreferrer"> 0000-0001-7744-8565</a></p>
+  </div>
+  <div class="col-6_sm-12">
+    <div class="headshot"><img src="/images/cat.jpg"/></div>
+  </div>
+  <div class="col-6_sm-12">
+  <h3>Andreas Halman</h3>
+    <h4>PhD student</h4>
+    <p><i class="fas fa-envelope fa-lg"></i> andreas.halman [at] mcri.edu.au</p>
+    <p><i class="fab fa-github fa-lg"></i><a href="https://github.com/andreashhh"> andreashhh</a></p>
+    <p><img src="https://orcid.org/sites/default/files/images/orcid_32x32.png" style="width:1.5em" alt="ORCID iD icon"><a itemprop="sameAs" href="https://orcid.org/0000-0001-5248-4121" target="orcid.widget" rel="noopener noreferrer"> 0000-0001-5248-4121</a></p>
+  </div>
+</div>
 
 ## Past members
 
+* **Breon Schmidt** - Masters student (2016-2017)
+  <a href="https://github.com/breons"><i class="fab fa-github"></i></a>
 * **Dr Anthony Hawkins** - Post-doctoral researcher (2016)
   <a href="https://github.com/Quarkins"><i class="fab fa-github"></i></a>
   <a href="https://twitter.com/adkhawkins"><i class="fab fa-twitter"></i></a>
-  <a href=""><i class="fas fa-graduation-cap"></i></a>
-  <a itemprop="sameAs" href="" target="orcid.widget" rel="noopener noreferrer"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em" alt="ORCID iD icon"></a>
+* **Dr Christoffer Flensburg** - Post-doctoral researcher
+  <a href="https://github.com/ChristofferFlensburg"><i class="fab fa-github"></i></a>
+  <a href="https://twitter.com/CFlensburg"><i class="fab fa-twitter"></i></a>
+  <a href="https://scholar.google.com.au/citations?hl=en&user=I7ooznQAAAAJ&view_op=list_works&sortby=pubdate"><i class="fas fa-graduation-cap"></i></a>
+* **Dr Haroon Naeem** - Post-doctoral researcher
+* **Michael McLennan** - Masters student
 
 <!--
-### Dr Nadia Davidson
-* Role: Research Officer
-* Email: nadia.davidson [at] mcri.edu.au
-
-### Dr Jovana Maksimovic
-* Role: Postdoctoral scientist
-* Email: jovana.maksimovic [at] mcri.edu.au
-
-### Dr Katrina Bell
-* Role: Senior Bioinformatics Researcher
-* Email: katrina.bell [at] mcri.edu.au
-
-### Dr Belinda Phipson
-* Role: Post-doctoral Researcher
-* Email: belinda.phipson [at] mcri.edu.au
-
-### Dr Simon Sadedin
-* Role: Post-doctoral Researcher
-* Email: simon.sadedin [at] mcri.edu.au
-
-### Dr Rebecca Evans
-* Role: Research Assistant
-* Email: rebecca.evans [at] mcri.edu.au
-
-### Harriet Dashnow
-* Role: PhD Student/Research Assistant
-* Email: harriet.dashnow [at] mcri.edu.au
-
-### Luke Zappia
-* Role: PhD Student
-* Email: luke.zappia [at] mcri.edu.au
-
-### Breon Schmidt
-* Role: Masters Student
-* Email: breon.schmidt [at] mcri.edu.au
-
-### Andrew Lonsdale
-* Role: Research Assistant
-* Email: andrew.lonsdale [at] mcri.edu.au
-
-### Marek Cmero
-* Role: Post-doctoral Researcher
-* Email: marek.cmero [at] mcri.edu.au
-
-## Past Group Members
-
-### Dr Christoffer Flensburg
-* Role: Post-Doctoral Researcher
-
-### Dr Haroon Naeem
-* Role: Post-Doctoral Researcher
-
-### Michael McLellan
-* Role: Masters Student
-
-### Dr Anthony Hawkins
- * Role: Post-doctoral Researcher
- -->
+  <a itemprop="sameAs" href="" target="orcid.widget" rel="noopener noreferrer"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em" alt="ORCID iD icon"></a>
+-->
