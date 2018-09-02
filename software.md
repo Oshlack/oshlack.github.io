@@ -154,7 +154,7 @@ permalink: /software/
   </div>
   <div class="col-6_sm-12">
     <h3>scRNA-tools</h3>
-    <p>A database of tools for analysis single-cell RNA-sequencing data</p>
+    <p>A database of tools for the analysis of single-cell RNA-sequencing data</p>
     <p><i class="fas fa-globe-asia fa-lg"></i> <a href="https://www.scrna-tools.org/">https://www.scrna-tools.org/</a></p>
     <p><i class="fab fa-github fa-lg"></i><a href="https://github.com/Oshlack/scRNA-tools"> Oshlack/scRNA-tools</a></p>
     <img src="https://img.shields.io/github/stars/Oshlack/scRNA-tools.svg?style=social&label=Stars" />
@@ -162,7 +162,7 @@ permalink: /software/
   </div>
   <div class="col-6_sm-12">
     <h3>clustree</h3>
-    <p>An R package for create clustering trees, a visualisation for interrogating clusterings as resolution increases</p>
+    <p>An R package for creating clustering trees, a visualisation for interrogating clusterings at increasing resolutions</p>
     <p><i class="fas fa-archive"></i><a href="https://CRAN.R-project.org/package=clustree"> CRAN/clustree</a></p>
     <img src="http://www.r-pkg.org/badges/version/clustree" />
     <img src="https://cranlogs.r-pkg.org/badges/clustree" />
