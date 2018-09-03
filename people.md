@@ -25,7 +25,7 @@ permalink: /people/
 
 <div class="grid">
   <div class="col-6_sm-12">
-    <div class="headshot"><img src="/images/cat.jpg"/></div>
+    <div class="headshot"><img src="/images/square_blue.jpg"/></div>
   </div>
   <div class="col-6_sm-12">
     <h3>Dr Nadia Davidson</h3>
@@ -74,7 +74,7 @@ permalink: /people/
     <p><i class="fas fa-envelope fa-lg"></i> katrina.bell [at] mcri.edu.au</p>
   </div>
     <div class="col-6_sm-12">
-    <div class="headshot"><img src="/images/cat.jpg"/></div>
+    <div class="headshot"><img src="/images/square_blue.jpg"/></div>
   </div>
   <div class="col-6_sm-12">
     <h3>Dr Simon Sadedin</h3>
@@ -96,7 +96,7 @@ permalink: /people/
     <p><img src="https://orcid.org/sites/default/files/images/orcid_32x32.png" style="width:1.5em" alt="ORCID iD icon"><a itemprop="sameAs" href="https://orcid.org/0000-0001-7783-5530" target="orcid.widget" rel="noopener noreferrer"> 0000-0001-7783-5530</a></p>
   </div>
   <div class="col-6_sm-12">
-    <div class="headshot"><img src="/images/cat.jpg"/></div>
+    <div class="headshot"><img src="/images/AndrewLonsdale.jpg"/></div>
   </div>
   <div class="col-6_sm-12">
     <h3>Andrew Lonsdale</h3>
@@ -105,9 +105,10 @@ permalink: /people/
     <p><i class="fab fa-github fa-lg"></i><a href="https://github.com/LonsBio"> LonsBio</a></p>
     <p><i class="fab fa-twitter fa-lg"></i><a href="https://twitter.com/LonsBio"> LonsBio</a></p>
     <p><i class="fas fa-graduation-cap fa-lg"></i><a href="https://scholar.google.com.au/citations?hl=en&user=oFwOceEAAAAJ&view_op=list_works&sortby=pubdate"> Andrew Lonsdale</a></p>
+    <p><img src="https://orcid.org/sites/default/files/images/orcid_32x32.png" style="width:1.5em" alt="ORCID iD icon"><a itemprop="sameAs" href="https://orcid.org/0000-0002-0292-2880" target="orcid.widget" rel="noopener noreferrer"> 0000-0002-0292-2880</a></p>
   </div>
   <div class="col-6_sm-12">
-    <div class="headshot"><img src="/images/cat.jpg"/></div>
+    <div class="headshot"><img src="/images/square_blue.jpg"/></div>
   </div>
   <div class="col-6_sm-12">
     <h3>Dr Rebecca Evans</h3>
@@ -145,7 +146,7 @@ permalink: /people/
     <p><img src="https://orcid.org/sites/default/files/images/orcid_32x32.png" style="width:1.5em" alt="ORCID iD icon"><a itemprop="sameAs" href="https://orcid.org/0000-0001-7744-8565" target="orcid.widget" rel="noopener noreferrer"> 0000-0001-7744-8565</a></p>
   </div>
   <div class="col-6_sm-12">
-    <div class="headshot"><img src="/images/cat.jpg"/></div>
+    <div class="headshot"><img src="/images/square_blue.jpg"/></div>
   </div>
   <div class="col-6_sm-12">
   <h3>Andreas Halman</h3>
