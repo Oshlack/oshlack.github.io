@@ -24,7 +24,7 @@ permalink: /software/
   setInterval(() => mySiema.next(), 5000)
 </script>
 
-# Transcriptomics
+## Transcriptomics
 
 <div class="grid">
   <div class="col-6_sm-12">
@@ -75,7 +75,7 @@ permalink: /software/
   </div>
 </div>
 
-# Cancer
+## Cancer
 
 <div class="grid">
   <div class="col-6_sm-12">
@@ -94,7 +94,7 @@ permalink: /software/
   </div>
 </div>
 
-# Genomics
+## Genomics
 
 <div class="grid">
   <div class="col-6_sm-12">
@@ -129,7 +129,7 @@ permalink: /software/
   </div>
 </div>
 
-# Methylation
+## Methylation
 
 <div class="grid">
   <div class="col-6_sm-12">
@@ -141,7 +141,7 @@ permalink: /software/
   </div>
 </div>
 
-# Other tools
+## Other tools
 
 <div class="grid">
   <div class="col-6_sm-12">
