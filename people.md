@@ -107,15 +107,6 @@ permalink: /people/
     <p><i class="fas fa-graduation-cap fa-lg"></i><a href="https://scholar.google.com.au/citations?hl=en&user=oFwOceEAAAAJ&view_op=list_works&sortby=pubdate"> Andrew Lonsdale</a></p>
     <p><img src="https://orcid.org/sites/default/files/images/orcid_32x32.png" style="width:1.5em" alt="ORCID iD icon"><a itemprop="sameAs" href="https://orcid.org/0000-0002-0292-2880" target="orcid.widget" rel="noopener noreferrer"> 0000-0002-0292-2880</a></p>
   </div>
-  <div class="col-6_sm-12">
-    <div class="headshot"><img src="/images/square_blue.jpg"/></div>
-  </div>
-  <div class="col-6_sm-12">
-    <h3>Dr Rebecca Evans</h3>
-    <h4>Research assistant</h4>
-    <p><i class="fas fa-envelope fa-lg"></i> rebeccan.evans [at] mcri.edu.au</p>
-    <p><i class="fab fa-github fa-lg"></i><a href="https://github.com/beccyl"> beccyl</a></p>
-  </div>
 </div>
 
 ## Students
@@ -164,6 +155,8 @@ permalink: /people/
 * **Dr Anthony Hawkins** - Post-doctoral researcher (2016)
   <a href="https://github.com/Quarkins"><i class="fab fa-github"></i></a>
   <a href="https://twitter.com/adkhawkins"><i class="fab fa-twitter"></i></a>
+* **Dr Rebecca Evans** - Research assistant
+  <a href="https://github.com/beccyl"><i class="fab fa-github"></i></a>
 * **Dr Christoffer Flensburg** - Post-doctoral researcher
   <a href="https://github.com/ChristofferFlensburg"><i class="fab fa-github"></i></a>
   <a href="https://twitter.com/CFlensburg"><i class="fab fa-twitter"></i></a>
