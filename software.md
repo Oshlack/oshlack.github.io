@@ -138,6 +138,10 @@ permalink: /software/
     <p><i class="fas fa-music"></i><a href="http://bioconductor.org/packages/missMethyl/"> bioc/missMethyl</a></p>
     <img src="https://bioconductor.org/shields/years-in-bioc/missMethyl.svg" />
     <img src="https://bioconductor.org/shields/downloads/missMethyl.svg" />
+    <p></p>
+    <p><i class="fab fa-github fa-lg"></i><a href="https://github.com/Oshlack/missMethyl"> Oshlack/missMethyl</a></p>
+    <img src="https://img.shields.io/github/stars/Oshlack/missMethyl.svg?style=social&label=Stars" />
+    <img src="https://img.shields.io/github/forks/Oshlack/missMethyl.svg?style=social&label=Forks" />
   </div>
 </div>
 
