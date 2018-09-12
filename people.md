@@ -72,6 +72,7 @@ permalink: /people/
     <h3>Dr Katrina Bell</h3>
     <h4>Senior bioinformatics researcher</h4>
     <p><i class="fas fa-envelope fa-lg"></i> katrina.bell [at] mcri.edu.au</p>
+    <p><i class="fab fa-twitter fa-lg"></i><a href="https://twitter.com/KatBell_2"> KatBell_2</a></p>
   </div>
     <div class="col-6_sm-12">
     <div class="headshot"><img src="/images/square_blue.png"/></div>
