@@ -53,14 +53,14 @@ permalink: /software/
     <p>Gene Ontology analyser for RNA-seq and other length biased data</p>
     <p><i class="fas fa-music"></i><a href="http://bioconductor.org/packages/goseq/"> bioc/goseq</a></p>
     <img src="https://bioconductor.org/shields/years-in-bioc/goseq.svg" />
-    <img src="https://bioconductor.org/shields/downloads/goseq.svg" />
+    <img src="https://bioconductor.org/shields/downloads/release/goseq.svg" />
   </div>
   <div class="col-6_sm-12">
     <h3>Splatter</h3>
     <p>Simple simulation of single-cell RNA-seq count data</p>
     <p><i class="fas fa-music"></i><a href="http://bioconductor.org/packages/splatter/"> bioc/splatter</a></p>
     <img src="https://bioconductor.org/shields/years-in-bioc/splatter.svg" />
-    <img src="https://bioconductor.org/shields/downloads/splatter.svg" />
+    <img src="https://bioconductor.org/shields/downloads/release/splatter.svg" />
     <p></p>
     <p><i class="fab fa-github fa-lg"></i><a href="https://github.com/Oshlack/splatter"> Oshlack/splatter</a></p>
     <img src="https://img.shields.io/github/stars/Oshlack/splatter.svg?style=social&label=Stars" />
@@ -137,7 +137,7 @@ permalink: /software/
     <p>Bioconductor package for analysing data from Illumina's methylation arrays</p>
     <p><i class="fas fa-music"></i><a href="http://bioconductor.org/packages/missMethyl/"> bioc/missMethyl</a></p>
     <img src="https://bioconductor.org/shields/years-in-bioc/missMethyl.svg" />
-    <img src="https://bioconductor.org/shields/downloads/missMethyl.svg" />
+    <img src="https://bioconductor.org/shields/downloads/release/missMethyl.svg" />
     <p></p>
     <p><i class="fab fa-github fa-lg"></i><a href="https://github.com/Oshlack/missMethyl"> Oshlack/missMethyl</a></p>
     <img src="https://img.shields.io/github/stars/Oshlack/missMethyl.svg?style=social&label=Stars" />
