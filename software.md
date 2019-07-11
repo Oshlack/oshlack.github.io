@@ -175,4 +175,11 @@ permalink: /software/
     <img src="https://img.shields.io/github/stars/lazappi/clustree.svg?style=social&label=Stars" />
     <img src="https://img.shields.io/github/forks/lazappi/clustree.svg?style=social&label=Forks" />
   </div>
+  <div class="col-6_sm-12">
+    <h3>Bazam</h3>
+    <p>A tool to extract paired reads in FASTQ format from coordinate sorted BAM files</p>
+    <p><i class="fab fa-github fa-lg"></i><a href="https://github.com/ssadedin/bazam"> ssadedin/bazam</a></p>
+    <img src="https://img.shields.io/github/stars/ssadedin/bazam.svg?style=social&label=Stars" />
+    <img src="https://img.shields.io/github/forks/ssadedin/bazam.svg?style=social&label=Forks" />
+  </div>
 </div>
