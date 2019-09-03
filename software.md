@@ -66,13 +66,6 @@ permalink: /software/
     <img src="https://img.shields.io/github/stars/Oshlack/splatter.svg?style=social&label=Stars" />
     <img src="https://img.shields.io/github/forks/Oshlack/splatter.svg?style=social&label=Forks" />
   </div>
-  <div class="col-6_sm-12">
-    <h3>Clinker</h3>
-    <p>A gene fusion visualisation tool</p>
-    <p><i class="fab fa-github fa-lg"></i><a href="https://github.com/Oshlack/Clinker"> Oshlack/Clinker</a></p>
-    <img src="https://img.shields.io/github/stars/Oshlack/Clinker.svg?style=social&label=Stars" />
-    <img src="https://img.shields.io/github/forks/Oshlack/Clinker.svg?style=social&label=Forks" />
-  </div>
 </div>
 
 ## Cancer
@@ -86,11 +79,53 @@ permalink: /software/
     <img src="https://img.shields.io/github/forks/Oshlack/JAFFA.svg?style=social&label=Forks" />
   </div>
   <div class="col-6_sm-12">
+    <h3>Clinker</h3>
+    <p>A gene fusion visualisation tool</p>
+    <p><i class="fab fa-github fa-lg"></i><a href="https://github.com/Oshlack/Clinker"> Oshlack/Clinker</a></p>
+    <img src="https://img.shields.io/github/stars/Oshlack/Clinker.svg?style=social&label=Stars" />
+    <img src="https://img.shields.io/github/forks/Oshlack/Clinker.svg?style=social&label=Forks" />
+  </div>
+  <div class="col-6_sm-12">
     <h3>AllSorts</h3>
     <p>An Acute Lymphoblasitc Leukemia B-Cell classifier</p>
     <p><i class="fab fa-github fa-lg"></i><a href="https://github.com/Oshlack/AllSorts"> Oshlack/AllSorts</a></p>
     <img src="https://img.shields.io/github/stars/Oshlack/AllSorts.svg?style=social&label=Stars" />
     <img src="https://img.shields.io/github/forks/Oshlack/AllSorts.svg?style=social&label=Forks" />
+  </div>
+</div>
+
+## Single Cell
+
+<div class="grid">
+  <div class="col-6_sm-12">
+    <h3>scRNA-tools</h3>
+    <p>A database of tools for the analysis of single-cell RNA-sequencing data</p>
+    <p><i class="fas fa-globe-asia fa-lg"></i> <a href="https://www.scrna-tools.org/">https://www.scrna-tools.org/</a></p>
+    <p><i class="fab fa-github fa-lg"></i><a href="https://github.com/Oshlack/scRNA-tools"> Oshlack/scRNA-tools</a></p>
+    <img src="https://img.shields.io/github/stars/Oshlack/scRNA-tools.svg?style=social&label=Stars" />
+    <img src="https://img.shields.io/github/forks/Oshlack/scRNA-tools.svg?style=social&label=Forks" />
+  </div>
+    <div class="col-6_sm-12">
+    <h3>clustree</h3>
+    <p>An R package for creating clustering trees, a visualisation for interrogating clusterings at increasing resolutions</p>
+    <p><i class="fas fa-archive"></i><a href="https://CRAN.R-project.org/package=clustree"> CRAN/clustree</a></p>
+    <img src="http://www.r-pkg.org/badges/version/clustree" />
+    <img src="https://cranlogs.r-pkg.org/badges/clustree" />
+    <p></p>
+    <p><i class="fab fa-github fa-lg"></i><a href="https://github.com/lazappi/clustree"> lazappi/clustree</a></p>
+    <img src="https://img.shields.io/github/stars/lazappi/clustree.svg?style=social&label=Stars" />
+    <img src="https://img.shields.io/github/forks/lazappi/clustree.svg?style=social&label=Forks" />
+  </div>
+   <div class="col-6_sm-12">
+    <h3>Splatter</h3>
+    <p>Simple simulation of single-cell RNA-seq count data</p>
+    <p><i class="fas fa-music"></i><a href="http://bioconductor.org/packages/splatter/"> bioc/splatter</a></p>
+    <img src="https://bioconductor.org/shields/years-in-bioc/splatter.svg" />
+    <img src="https://bioconductor.org/shields/downloads/release/splatter.svg" />
+    <p></p>
+    <p><i class="fab fa-github fa-lg"></i><a href="https://github.com/Oshlack/splatter"> Oshlack/splatter</a></p>
+    <img src="https://img.shields.io/github/stars/Oshlack/splatter.svg?style=social&label=Stars" />
+    <img src="https://img.shields.io/github/forks/Oshlack/splatter.svg?style=social&label=Forks" />
   </div>
 </div>
 
@@ -128,7 +163,7 @@ permalink: /software/
     <img src="https://img.shields.io/github/forks/Oshlack/STRetch.svg?style=social&label=Forks" />
   </div>
 </div>
-
+  
 ## Methylation
 
 <div class="grid">
@@ -155,25 +190,6 @@ permalink: /software/
     <p><i class="fab fa-github fa-lg"></i><a href="https://github.com/ssadedin/bpipe"> ssadedin/bpipe</a></p>
     <img src="https://img.shields.io/github/stars/ssadedin/bpipe.svg?style=social&label=Stars" />
     <img src="https://img.shields.io/github/forks/ssadedin/bpipe.svg?style=social&label=Forks" />
-  </div>
-  <div class="col-6_sm-12">
-    <h3>scRNA-tools</h3>
-    <p>A database of tools for the analysis of single-cell RNA-sequencing data</p>
-    <p><i class="fas fa-globe-asia fa-lg"></i> <a href="https://www.scrna-tools.org/">https://www.scrna-tools.org/</a></p>
-    <p><i class="fab fa-github fa-lg"></i><a href="https://github.com/Oshlack/scRNA-tools"> Oshlack/scRNA-tools</a></p>
-    <img src="https://img.shields.io/github/stars/Oshlack/scRNA-tools.svg?style=social&label=Stars" />
-    <img src="https://img.shields.io/github/forks/Oshlack/scRNA-tools.svg?style=social&label=Forks" />
-  </div>
-  <div class="col-6_sm-12">
-    <h3>clustree</h3>
-    <p>An R package for creating clustering trees, a visualisation for interrogating clusterings at increasing resolutions</p>
-    <p><i class="fas fa-archive"></i><a href="https://CRAN.R-project.org/package=clustree"> CRAN/clustree</a></p>
-    <img src="http://www.r-pkg.org/badges/version/clustree" />
-    <img src="https://cranlogs.r-pkg.org/badges/clustree" />
-    <p></p>
-    <p><i class="fab fa-github fa-lg"></i><a href="https://github.com/lazappi/clustree"> lazappi/clustree</a></p>
-    <img src="https://img.shields.io/github/stars/lazappi/clustree.svg?style=social&label=Stars" />
-    <img src="https://img.shields.io/github/forks/lazappi/clustree.svg?style=social&label=Forks" />
   </div>
   <div class="col-6_sm-12">
     <h3>Bazam</h3>
