@@ -116,7 +116,7 @@ permalink: /software/
     <img src="https://img.shields.io/github/stars/lazappi/clustree.svg?style=social&label=Stars" />
     <img src="https://img.shields.io/github/forks/lazappi/clustree.svg?style=social&label=Forks" />
   </div>
-   <div class="col-6_sm-12">
+  <div class="col-6_sm-12">
     <h3>Splatter</h3>
     <p>Simple simulation of single-cell RNA-seq count data</p>
     <p><i class="fas fa-music"></i><a href="http://bioconductor.org/packages/splatter/"> bioc/splatter</a></p>
