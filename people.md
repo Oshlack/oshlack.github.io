@@ -175,7 +175,7 @@ permalink: /people/
   <a href="https://scholar.google.com.au/citations?hl=en&user=I7ooznQAAAAJ&view_op=list_works&sortby=pubdate"><i class="fas fa-graduation-cap"></i></a>
 * **Dr Haroon Naeem** - Post-doctoral researcher
 * **Michael McLennan** - Masters student
-* **Lavinia Gordon** - Research assistant
+* **Lavinia Gordon** - Senior Research Officer
 
 <!--
   <a itemprop="sameAs" href="" target="orcid.widget" rel="noopener noreferrer"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em" alt="ORCID iD icon"></a>
