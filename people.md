@@ -169,11 +169,9 @@ permalink: /people/
     <p><i class="fab fa-github fa-lg"></i> <a href="https://github.com/breons">breons</a></p>
   </div>
 </div>
-
+  
 ## Past members
-
-* **Breon Schmidt** - Masters student (2016-2017)
-  <a href="https://github.com/breons"><i class="fab fa-github"></i></a>
+  
 * **Dr Anthony Hawkins** - Post-doctoral researcher (2016)
   <a href="https://github.com/Quarkins"><i class="fab fa-github"></i></a>
   <a href="https://twitter.com/adkhawkins"><i class="fab fa-twitter"></i></a>
@@ -185,6 +183,7 @@ permalink: /people/
   <a href="https://scholar.google.com.au/citations?hl=en&user=I7ooznQAAAAJ&view_op=list_works&sortby=pubdate"><i class="fas fa-graduation-cap"></i></a>
 * **Dr Haroon Naeem** - Post-doctoral researcher
 * **Michael McLennan** - Masters student
+* **Lavinia Gordon ** - Research assistant
 
 <!--
   <a itemprop="sameAs" href="" target="orcid.widget" rel="noopener noreferrer"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em" alt="ORCID iD icon"></a>
