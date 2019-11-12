@@ -155,14 +155,6 @@ permalink: /people/
     <div class="headshot"><img src="/images/square_blue.png"/></div>
   </div>
   <div class="col-6_sm-12">
-    <h3>Sam Hainsworth</h3>
-    <h4>PhD student</h4>
-    <p><i class="fas fa-envelope fa-lg"></i> sam.hainsworth [at] mcri.edu.au</p>
-  </div>
-  <div class="col-6_sm-12">
-    <div class="headshot"><img src="/images/square_blue.png"/></div>
-  </div>
-  <div class="col-6_sm-12">
     <h3>Breon Schmidt</h3>
     <h4>PhD student</h4>
     <p><i class="fas fa-envelope fa-lg"></i> breon.schmidt [at] mcri.edu.au</p>
@@ -171,7 +163,7 @@ permalink: /people/
 </div>
   
 ## Past members
-  
+* **Sam Hainsworth** - PhD student
 * **Dr Anthony Hawkins** - Post-doctoral researcher (2016)
   <a href="https://github.com/Quarkins"><i class="fab fa-github"></i></a>
   <a href="https://twitter.com/adkhawkins"><i class="fab fa-twitter"></i></a>
@@ -183,7 +175,7 @@ permalink: /people/
   <a href="https://scholar.google.com.au/citations?hl=en&user=I7ooznQAAAAJ&view_op=list_works&sortby=pubdate"><i class="fas fa-graduation-cap"></i></a>
 * **Dr Haroon Naeem** - Post-doctoral researcher
 * **Michael McLennan** - Masters student
-* **Lavinia Gordon ** - Research assistant
+* **Lavinia Gordon** - Research assistant
 
 <!--
   <a itemprop="sameAs" href="" target="orcid.widget" rel="noopener noreferrer"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em" alt="ORCID iD icon"></a>
