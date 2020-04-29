@@ -11,7 +11,7 @@ permalink: /people/
     <div class="headshot"><img src="/images/AliciaOshlack.jpg"/></div>
   </div>
   <div class="col-6_sm-12">
-    <h3>A/Prof Alicia Oshlack</h3>
+    <h3>Professor Alicia Oshlack</h3>
     <h4>Group leader</h4>
     <p><i class="fas fa-envelope fa-lg"></i> alicia.oshlack [at] petermac.org</p>
     <p><i class="fab fa-github fa-lg"></i> <a href="https://github.com/Oshlack">Oshlack</a></p>
@@ -66,25 +66,6 @@ permalink: /people/
     <p><img src="https://orcid.org/sites/default/files/images/orcid_32x32.png" style="width:1.5em" alt="ORCID iD icon"> <a itemprop="sameAs" href="https://orcid.org/0000-0002-9458-3061" target="orcid.widget" rel="noopener noreferrer">0000-0002-9458-3061</a></p>
   </div>
   <div class="col-6_sm-12">
-    <div class="headshot"><img src="/images/KatrinaBell.jpg"/></div>
-  </div>
-  <div class="col-6_sm-12">
-    <h3>Dr Katrina Bell</h3>
-    <h4>Senior bioinformatics researcher</h4>
-    <p><i class="fas fa-envelope fa-lg"></i> katrina.bell [at] petermac.org</p>
-    <p><i class="fab fa-twitter fa-lg"></i> <a href="https://twitter.com/KatBell_2">KatBell_2</a></p>
-  </div>
-    <div class="col-6_sm-12">
-    <div class="headshot"><img src="/images/square_blue.png"/></div>
-  </div>
-  <div class="col-6_sm-12">
-    <h3>Dr Simon Sadedin</h3>
-    <h4>Post-doctoral researcher</h4>
-    <p><i class="fas fa-envelope fa-lg"></i> simon.sadedin [at] petermac.org</p>
-    <p><i class="fab fa-github fa-lg"></i> <a href="https://github.com/ssadedin">ssadedin</a></p>
-    <p><img src="https://orcid.org/sites/default/files/images/orcid_32x32.png" style="width:1.5em" alt="ORCID iD icon"> <a itemprop="sameAs" href="https://orcid.org/0000-0002-2144-7894" target="orcid.widget" rel="noopener noreferrer">0000-0002-2144-7894</a></p>
-  </div>
-  <div class="col-6_sm-12">
     <div class="headshot"><img src="/images/MarekCmero.jpg"/></div>
   </div>
   <div class="col-6_sm-12">
@@ -101,7 +82,7 @@ permalink: /people/
   </div>
   <div class="col-6_sm-12">
     <h3>Andrew Lonsdale</h3>
-    <h4>Research assistant</h4>
+    <h4>Post-doctoral researcher</h4>
     <p><i class="fas fa-envelope fa-lg"></i> andrew.lonsdale [at] petermac.org</p>
     <p><i class="fab fa-github fa-lg"></i> <a href="https://github.com/LonsBio">LonsBio</a></p>
     <p><i class="fab fa-twitter fa-lg"></i> <a href="https://twitter.com/LonsBio">LonsBio</a></p>
@@ -113,30 +94,6 @@ permalink: /people/
 ## Students
 
 <div class="grid">
-  <div class="col-6_sm-12">
-    <div class="headshot"><img src="/images/HarrietDashnow.jpg"/></div>
-  </div>
-  <div class="col-6_sm-12">
-    <h3>Harriet Dashnow</h3>
-    <h4>PhD student/Research assistant</h4>
-    <p><i class="fas fa-envelope fa-lg"></i> harriet.dashnow [at] petermac.org</p>
-    <p><i class="fab fa-github fa-lg"></i> <a href="https://github.com/hdashnow">hdashnow</a></p>
-    <p><i class="fab fa-twitter fa-lg"></i> <a href="https://twitter.com/hdashnow">hdashnow</a></p>
-    <p><i class="fas fa-graduation-cap fa-lg"></i> <a href="https://scholar.google.com.au/citations?hl=en&user=4Y3m53gAAAAJ&view_op=list_works&sortby=pubdate">Harriet Dashnow</a></p>
-    <p><img src="https://orcid.org/sites/default/files/images/orcid_32x32.png" style="width:1.5em" alt="ORCID iD icon"> <a itemprop="sameAs" href="https://orcid.org/0000-0001-8433-6270" target="orcid.widget" rel="noopener noreferrer">0000-0001-8433-6270</a></p>
-  </div>
-  <div class="col-6_sm-12">
-    <div class="headshot"><img src="/images/LukeZappia.jpg"/></div>
-  </div>
-  <div class="col-6_sm-12">
-  <h3>Luke Zappia</h3>
-    <h4>PhD student</h4>
-    <p><i class="fas fa-envelope fa-lg"></i> luke.zappia [at] petermac.org</p>
-    <p><i class="fab fa-github fa-lg"></i> <a href="https://github.com/lazappi">lazappi</a></p>
-    <p><i class="fab fa-twitter fa-lg"></i> <a href="https://twitter.com/_lazappi_">_lazappi_</a></p>
-    <p><i class="fas fa-graduation-cap fa-lg"></i> <a href="https://scholar.google.com.au/citations?hl=en&user=F_LxcIoAAAAJ&view_op=list_works&sortby=pubdate">Luke Zappia</a></p>
-    <p><img src="https://orcid.org/sites/default/files/images/orcid_32x32.png" style="width:1.5em" alt="ORCID iD icon"> <a itemprop="sameAs" href="https://orcid.org/0000-0001-7744-8565" target="orcid.widget" rel="noopener noreferrer">0000-0001-7744-8565</a></p>
-  </div>
   <div class="col-6_sm-12">
     <div class="headshot"><img src="/images/square_blue.png"/></div>
   </div>
@@ -163,6 +120,51 @@ permalink: /people/
 </div>
   
 ## Past members
+
+<div class="grid">
+<div class="col-6_sm-12">
+    <div class="headshot"><img src="/images/KatrinaBell.jpg"/></div>
+  </div>
+  <div class="col-6_sm-12">
+    <h3>Dr Katrina Bell</h3>
+    <h4>Senior bioinformatics researcher</h4>
+    <p><i class="fas fa-envelope fa-lg"></i> katrina.bell [at] mcri.edu.au</p>
+    <p><i class="fab fa-twitter fa-lg"></i> <a href="https://twitter.com/KatBell_2">KatBell_2</a></p>
+  </div>
+    <div class="col-6_sm-12">
+    <div class="headshot"><img src="/images/square_blue.png"/></div>
+  </div>
+  <div class="col-6_sm-12">
+    <h3>Dr Simon Sadedin</h3>
+    <h4>Post-doctoral researcher</h4>
+    <p><i class="fas fa-envelope fa-lg"></i> simon.sadedin [at] mcri.edu.au</p>
+    <p><i class="fab fa-github fa-lg"></i> <a href="https://github.com/ssadedin">ssadedin</a></p>
+    <p><img src="https://orcid.org/sites/default/files/images/orcid_32x32.png" style="width:1.5em" alt="ORCID iD icon"> <a itemprop="sameAs" href="https://orcid.org/0000-0002-2144-7894" target="orcid.widget" rel="noopener noreferrer">0000-0002-2144-7894</a></p>
+  </div>
+ <div class="col-6_sm-12">
+    <div class="headshot"><img src="/images/HarrietDashnow.jpg"/></div>
+  </div>
+  <div class="col-6_sm-12">
+    <h3>Harriet Dashnow</h3>
+    <h4>PhD student/Research assistant</h4>
+    <p><i class="fab fa-github fa-lg"></i> <a href="https://github.com/hdashnow">hdashnow</a></p>
+    <p><i class="fab fa-twitter fa-lg"></i> <a href="https://twitter.com/hdashnow">hdashnow</a></p>
+    <p><i class="fas fa-graduation-cap fa-lg"></i> <a href="https://scholar.google.com.au/citations?hl=en&user=4Y3m53gAAAAJ&view_op=list_works&sortby=pubdate">Harriet Dashnow</a></p>
+    <p><img src="https://orcid.org/sites/default/files/images/orcid_32x32.png" style="width:1.5em" alt="ORCID iD icon"> <a itemprop="sameAs" href="https://orcid.org/0000-0001-8433-6270" target="orcid.widget" rel="noopener noreferrer">0000-0001-8433-6270</a></p>
+  </div>
+  <div class="col-6_sm-12">
+    <div class="headshot"><img src="/images/LukeZappia.jpg"/></div>
+  </div>
+  <div class="col-6_sm-12">
+  <h3>Luke Zappia</h3>
+    <h4>PhD student</h4>
+    <p><i class="fab fa-github fa-lg"></i> <a href="https://github.com/lazappi">lazappi</a></p>
+    <p><i class="fab fa-twitter fa-lg"></i> <a href="https://twitter.com/_lazappi_">_lazappi_</a></p>
+    <p><i class="fas fa-graduation-cap fa-lg"></i> <a href="https://scholar.google.com.au/citations?hl=en&user=F_LxcIoAAAAJ&view_op=list_works&sortby=pubdate">Luke Zappia</a></p>
+    <p><img src="https://orcid.org/sites/default/files/images/orcid_32x32.png" style="width:1.5em" alt="ORCID iD icon"> <a itemprop="sameAs" href="https://orcid.org/0000-0001-7744-8565" target="orcid.widget" rel="noopener noreferrer">0000-0001-7744-8565</a></p>
+  </div>
+</div>
+
 * **Sam Hainsworth** - PhD student
 * **Dr Anthony Hawkins** - Post-doctoral researcher (2016)
   <a href="https://github.com/Quarkins"><i class="fab fa-github"></i></a>
