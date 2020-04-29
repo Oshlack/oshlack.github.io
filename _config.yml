@@ -1,6 +1,6 @@
 # Site settings
 title: Oshlack Lab at Peter Mac
-email: alicia.oshack [at] petermac.org
+email: alicia.oshlack [at] petermac.org
 description: > # this means to ignore newlines until "baseurl:"
     The Oshlack Lab at the Peter MacCallum Cancer Centre uses computational and statistical techniques to analyse and explore the transcriptome and genome.
 baseurl: "" # the subpath of your site, e.g. /blog/
