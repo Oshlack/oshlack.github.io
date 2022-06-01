@@ -4,6 +4,9 @@ title: People
 permalink: /people/
 ---
 
+  <div class="col-6_sm-12">
+    <div class="headshot"><img src="/images/oshlack_no_bg.png"/></div>
+  </div>
 ## Group Leader
 
 <div class="grid">
