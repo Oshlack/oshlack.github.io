@@ -24,30 +24,6 @@ permalink: /people/
 ## Team leaders
 
 <div class="grid">
-  <div class="col-6_sm-12">
-    <div class="headshot"><img src="/images/square_blue.png"/></div>
-  </div>
-  <div class="col-6_sm-12">
-    <h3>Dr Nadia Davidson</h3>
-    <h4>Team leader</h4>
-    <p><i class="fas fa-envelope fa-lg"></i> nadia.davidson [at] petermac.org</p>
-    <p><i class="fab fa-github fa-lg"></i> <a href="https://github.com/nadiadavidson">nadiadavidson</a></p>
-    <p><i class="fab fa-twitter fa-lg"></i> <a href="https://twitter.com/nadia_davidson">nadia_davidson</a></p>
-    <p><i class="fas fa-graduation-cap fa-lg"></i> <a href="https://scholar.google.com.au/citations?hl=en&user=yqdRNz8AAAAJ&view_op=list_works&sortby=pubdate">Nadia M Davidson</a></p>
-    <p><img src="/images/orcid_32x32.png" style="width:1.5em" alt="ORCID iD icon"> <a itemprop="sameAs" href="0000-0002-8461-7467" target="orcid.widget" rel="noopener noreferrer">0000-0002-8461-7467</a></p>
-  </div>
-  <div class="col-6_sm-12">
-    <div class="headshot"><img src="/images/BelindaPhipson.jpg"/></div>
-  </div>
-  <div class="col-6_sm-12">
-    <h3>Dr Belinda Phipson</h3>
-    <h4>Team leader</h4>
-    <p><i class="fas fa-envelope fa-lg"></i> belinda.phipson [at] petermac.org</p>
-    <p><i class="fab fa-github fa-lg"></i> <a href="https://github.com/bphipson">bphipson</a></p>
-    <p><i class="fab fa-twitter fa-lg"></i> <a href="https://twitter.com/BelindaPhipson">BelindaPhipson</a></p>
-    <p><i class="fas fa-graduation-cap fa-lg"></i> <a href="https://scholar.google.com.au/citations?hl=en&user=od4hT8gAAAAJ&view_op=list_works&sortby=pubdate">Belinda Phipson</a></p>
-    <p><img src="/images/orcid_32x32.png" style="width:1.5em" alt="ORCID iD icon"> <a itemprop="sameAs" href="0000-0002-1711-7454" target="orcid.widget" rel="noopener noreferrer">0000-0002-1711-7454</a></p>
-  </div>
 </div>
 
 ## Researchers
@@ -66,18 +42,6 @@ permalink: /people/
     <p><img src="/images/orcid_32x32.png" style="width:1.5em" alt="ORCID iD icon"> <a itemprop="sameAs" href="0000-0002-9458-3061" target="orcid.widget" rel="noopener noreferrer">0000-0002-9458-3061</a></p>
   </div>
   <div class="col-6_sm-12">
-    <div class="headshot"><img src="/images/MarekCmero.jpg"/></div>
-  </div>
-  <div class="col-6_sm-12">
-    <h3>Dr Marek Cmero</h3>
-    <h4>Post-doctoral researcher</h4>
-    <p><i class="fas fa-envelope fa-lg"></i> marek.cmero [at] petermac.org</p>
-    <p><i class="fab fa-github fa-lg"></i> <a href="https://github.com/mcmero">mcmero</a></p>
-    <p><i class="fab fa-twitter fa-lg"></i> <a href="https://twitter.com/marekcmero">marekcmero</a></p>
-    <p><i class="fas fa-graduation-cap fa-lg"></i> <a href="https://scholar.google.com.au/citations?hl=en&user=OQTfAgYAAAAJ&view_op=list_works&sortby=pubdate">Marek Cmero</a></p>
-    <p><img src="/images/orcid_32x32.png" style="width:1.5em" alt="ORCID iD icon"> <a itemprop="sameAs" href="0000-0001-7783-5530" target="orcid.widget" rel="noopener noreferrer">0000-0001-7783-5530</a></p>
-  </div>
-  <div class="col-6_sm-12">
     <div class="headshot"><img src="/images/AndrewLonsdale.jpg"/></div>
   </div>
   <div class="col-6_sm-12">
@@ -88,18 +52,6 @@ permalink: /people/
     <p><i class="fab fa-twitter fa-lg"></i> <a href="https://twitter.com/LonsBio">LonsBio</a></p>
     <p><i class="fas fa-graduation-cap fa-lg"></i> <a href="https://scholar.google.com.au/citations?hl=en&user=oFwOceEAAAAJ&view_op=list_works&sortby=pubdate">Andrew Lonsdale</a></p>
     <p><img src="/images/orcid_32x32.png" style="width:1.5em" alt="ORCID iD icon"> <a itemprop="sameAs" href="0000-0002-0292-2880" target="orcid.widget" rel="noopener noreferrer">0000-0002-0292-2880</a></p>
-  </div>
-
-<div class="col-6_sm-12">
-    <div class="headshot"><img src="/images/square_blue.png"/></div>
-  </div>
-  <div class="col-6_sm-12">
-  <h3>Dr Rebecca Evans</h3>
-    <h4>Research Assistant</h4>
-    <p><i class="fas fa-envelope fa-lg"></i> rebecca.evans  [at] petermac.org</p>
-    <p>
-      <i class="fab fa-github fa-lg"></i> <a href="https://github.com/beccyl">beccyl</a>
-    </p>
   </div>
 
 
@@ -136,6 +88,54 @@ permalink: /people/
 ## Past members
 
 <div class="grid">
+  <div class="col-6_sm-12">
+    <div class="headshot"><img src="/images/square_blue.png"/></div>
+  </div>
+  <div class="col-6_sm-12">
+    <h3>Dr Nadia Davidson</h3>
+    <h4>Team leader</h4>
+    <p><i class="fas fa-envelope fa-lg"></i> nadia.davidson [at] petermac.org</p>
+    <p><i class="fab fa-github fa-lg"></i> <a href="https://github.com/nadiadavidson">nadiadavidson</a></p>
+    <p><i class="fab fa-twitter fa-lg"></i> <a href="https://twitter.com/nadia_davidson">nadia_davidson</a></p>
+    <p><i class="fas fa-graduation-cap fa-lg"></i> <a href="https://scholar.google.com.au/citations?hl=en&user=yqdRNz8AAAAJ&view_op=list_works&sortby=pubdate">Nadia M Davidson</a></p>
+    <p><img src="/images/orcid_32x32.png" style="width:1.5em" alt="ORCID iD icon"> <a itemprop="sameAs" href="0000-0002-8461-7467" target="orcid.widget" rel="noopener noreferrer">0000-0002-8461-7467</a></p>
+  </div>
+  <div class="col-6_sm-12">
+    <div class="headshot"><img src="/images/BelindaPhipson.jpg"/></div>
+  </div>
+  <div class="col-6_sm-12">
+    <h3>Dr Belinda Phipson</h3>
+    <h4>Team leader</h4>
+    <p><i class="fas fa-envelope fa-lg"></i> belinda.phipson [at] petermac.org</p>
+    <p><i class="fab fa-github fa-lg"></i> <a href="https://github.com/bphipson">bphipson</a></p>
+    <p><i class="fab fa-twitter fa-lg"></i> <a href="https://twitter.com/BelindaPhipson">BelindaPhipson</a></p>
+    <p><i class="fas fa-graduation-cap fa-lg"></i> <a href="https://scholar.google.com.au/citations?hl=en&user=od4hT8gAAAAJ&view_op=list_works&sortby=pubdate">Belinda Phipson</a></p>
+    <p><img src="/images/orcid_32x32.png" style="width:1.5em" alt="ORCID iD icon"> <a itemprop="sameAs" href="0000-0002-1711-7454" target="orcid.widget" rel="noopener noreferrer">0000-0002-1711-7454</a></p>
+  </div>
+  <div class="col-6_sm-12">
+    <div class="headshot"><img src="/images/MarekCmero.jpg"/></div>
+  </div>
+  <div class="col-6_sm-12">
+    <h3>Dr Marek Cmero</h3>
+    <h4>Post-doctoral researcher</h4>
+    <p><i class="fas fa-envelope fa-lg"></i> marek.cmero [at] petermac.org</p>
+    <p><i class="fab fa-github fa-lg"></i> <a href="https://github.com/mcmero">mcmero</a></p>
+    <p><i class="fab fa-twitter fa-lg"></i> <a href="https://twitter.com/marekcmero">marekcmero</a></p>
+    <p><i class="fas fa-graduation-cap fa-lg"></i> <a href="https://scholar.google.com.au/citations?hl=en&user=OQTfAgYAAAAJ&view_op=list_works&sortby=pubdate">Marek Cmero</a></p>
+    <p><img src="/images/orcid_32x32.png" style="width:1.5em" alt="ORCID iD icon"> <a itemprop="sameAs" href="0000-0001-7783-5530" target="orcid.widget" rel="noopener noreferrer">0000-0001-7783-5530</a></p>
+  </div>
+<div class="col-6_sm-12">
+    <div class="headshot"><img src="/images/square_blue.png"/></div>
+  </div>
+  <div class="col-6_sm-12">
+  <h3>Dr Rebecca Evans</h3>
+    <h4>Research Assistant</h4>
+    <p><i class="fas fa-envelope fa-lg"></i> rebecca.evans  [at] petermac.org</p>
+    <p>
+      <i class="fab fa-github fa-lg"></i> <a href="https://github.com/beccyl">beccyl</a>
+    </p>
+  </div>
+
 <div class="col-6_sm-12">
     <div class="headshot"><img src="/images/KatrinaBell.jpg"/></div>
   </div>
