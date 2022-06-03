@@ -177,7 +177,6 @@ permalink: /people/
     <h4>Team leader</h4>
     <p><i class="fas fa-link fa-lg"></i> <a href="https://www.wehi.edu.au/people/nadia-davidson">Currently at WEHI</a> </p>
 
-    <p><i class="fas fa-envelope fa-lg"></i> nadia.davidson [at] petermac.org</p>
     <p><i class="fab fa-github fa-lg"></i> <a href="https://github.com/nadiadavidson">nadiadavidson</a></p>
     <p><i class="fab fa-twitter fa-lg"></i> <a href="https://twitter.com/nadia_davidson">nadia_davidson</a></p>
     <p><i class="fas fa-graduation-cap fa-lg"></i> <a href="https://scholar.google.com.au/citations?hl=en&user=yqdRNz8AAAAJ&view_op=list_works&sortby=pubdate">Nadia M Davidson</a></p>
@@ -190,7 +189,6 @@ permalink: /people/
     <h3>Dr Belinda Phipson</h3>
     <h4>Team leader</h4>
     <p><i class="fas fa-link fa-lg"></i> <a href="https://www.wehi.edu.au/people/belinda-phipson">Currently at WEHI</a> </p>
-    <p><i class="fas fa-envelope fa-lg"></i> phipson.b [at] wehi.edu.au </p>
     <p><i class="fab fa-github fa-lg"></i> <a href="https://github.com/bphipson">bphipson</a></p>
     <p><i class="fab fa-twitter fa-lg"></i> <a href="https://twitter.com/BelindaPhipson">BelindaPhipson</a></p>
     <p><i class="fas fa-graduation-cap fa-lg"></i> <a href="https://scholar.google.com.au/citations?hl=en&user=od4hT8gAAAAJ&view_op=list_works&sortby=pubdate">Belinda Phipson</a></p>
