@@ -69,9 +69,9 @@ permalink: /people/
     <div class="headshot"><img src="/images/square_blue.png"/></div>
   </div>
   <div class="col-6_sm-12">
-    <h3>Name</h3>
-    <h4>Position</h4>
-    <p><i class="fas fa-envelope fa-lg"></i> email  [at] petermac.org</p>
+    <h3>Dr George Howitt</h3>
+    <h4>Post-doctoral researcher</h4>
+    <p><i class="fas fa-envelope fa-lg"></i> george.howitt  [at] petermac.org</p>
     <p><i class="fab fa-github fa-lg"></i> <a href="https://github.com/">github</a></p>
     <p><i class="fab fa-twitter fa-lg"></i> <a href="https://twitter.com/">twitter</a></p>
     <p><i class="fas fa-graduation-cap fa-lg"></i> <a href="https://scholar.google.com.au/citations?hl=en&user=yqdRNz8AAAAJ&view_op=list_works&sortby=pubdate">Google Scholar</a></p>
@@ -81,9 +81,9 @@ permalink: /people/
     <div class="headshot"><img src="/images/square_blue.png"/></div>
   </div>
   <div class="col-6_sm-12">
-    <h3>Name</h3>
-    <h4>Position</h4>
-    <p><i class="fas fa-envelope fa-lg"></i> email  [at] petermac.org</p>
+    <h3>Dr Rotem Aharon</h3>
+    <h4>Post-doctoral researcher</h4>
+    <p><i class="fas fa-envelope fa-lg"></i> rotem.aharon  [at] petermac.org</p>
     <p><i class="fab fa-github fa-lg"></i> <a href="https://github.com/">github</a></p>
     <p><i class="fab fa-twitter fa-lg"></i> <a href="https://twitter.com/">twitter</a></p>
     <p><i class="fas fa-graduation-cap fa-lg"></i> <a href="https://scholar.google.com.au/citations?hl=en&user=yqdRNz8AAAAJ&view_op=list_works&sortby=pubdate">Google Scholar</a></p>
@@ -93,8 +93,8 @@ permalink: /people/
     <div class="headshot"><img src="/images/square_blue.png"/></div>
   </div>
   <div class="col-6_sm-12">
-    <h3>Name</h3>
-    <h4>Position</h4>
+    <h3>Allen Gu</h3>
+    <h4>Research Assistant</h4>
     <p><i class="fas fa-envelope fa-lg"></i> email  [at] petermac.org</p>
     <p><i class="fab fa-github fa-lg"></i> <a href="https://github.com/">github</a></p>
     <p><i class="fab fa-twitter fa-lg"></i> <a href="https://twitter.com/">twitter</a></p>
@@ -139,13 +139,21 @@ permalink: /people/
     <p><i class="fas fa-envelope fa-lg"></i> calandra.grima [at] petermac.org</p>
   </div>
   <div class="col-6_sm-12">
-    <div class="headshot"><img src="/images/square_blue.png"/></div>
+    <div class="headshot"><img src="/images/LucyOlsen.jpg"/></div>
   </div>
   <div class="col-6_sm-12">
     <h3>Lucy Olsen</h3>
     <h4>Honours Student</h4>
     <p><i class="fas fa-envelope fa-lg"></i> lucy.olsen  [at] petermac.org</p>
     <p><i class="fab fa-twitter fa-lg"></i> <a href="https://twitter.com/lucylolsen">lucylolsen</a></p>
+  </div>
+  <div class="col-6_sm-12">
+    <div class="headshot"><img src="/images/square_blue.png"/></div>
+  </div>
+  <div class="col-6_sm-12">
+    <h3>Caitlin Page</h3>
+    <h4>Honours Student</h4>
+    <p><i class="fas fa-envelope fa-lg"></i> caitlin.page [at] petermac.org</p>
   </div>
   <div class="col-6_sm-12">
     <div class="headshot"><img src="/images/square_blue.png"/></div>
