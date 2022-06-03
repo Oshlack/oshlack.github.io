@@ -24,11 +24,6 @@ permalink: /people/
   </div>
 </div>
 
-## Team leaders
-
-<div class="grid">
-</div>
-
 ## Researchers
 
 <div class="grid">
@@ -126,40 +121,31 @@ permalink: /people/
 
 <div class="grid">
   <div class="col-6_sm-12">
-    <div class="headshot"><img src="/images/square_blue.png"/></div>
+    <div class="headshot"><img src="/images/MichaelNakai.JPG"/></div>
   </div>
   <div class="col-6_sm-12">
-    <h3>Name</h3>
-    <h4>Position</h4>
-    <p><i class="fas fa-envelope fa-lg"></i> email  [at] petermac.org</p>
-    <p><i class="fab fa-github fa-lg"></i> <a href="https://github.com/">github</a></p>
-    <p><i class="fab fa-twitter fa-lg"></i> <a href="https://twitter.com/">twitter</a></p>
-    <p><i class="fas fa-graduation-cap fa-lg"></i> <a href="https://scholar.google.com.au/citations?hl=en&user=yqdRNz8AAAAJ&view_op=list_works&sortby=pubdate">Google Scholar</a></p>
-    <p><img src="/images/orcid_32x32.png" style="width:1.5em" alt="ORCID iD icon"> <a itemprop="sameAs" href="0000-0002-8461-7467" target="orcid.widget" rel="noopener noreferrer">orcid</a></p>
+    <h3>Michael Nakai</h3>
+    <h4>PhD Student</h4>
+    <p><i class="fas fa-envelope fa-lg"></i> michael.nakai [at] petermac.org</p>
+    <p><i class="fab fa-github fa-lg"></i> <a href="https://github.com/michael-nakai">michael-nakai</a></p>
+    <p><img src="/images/orcid_32x32.png" style="width:1.5em" alt="ORCID iD icon"> <a itemprop="sameAs" href="0000-0002-6400-8007" target="orcid.widget" rel="noopener noreferrer">0000-0002-6400-8007</a></p>
   </div>
   <div class="col-6_sm-12">
-    <div class="headshot"><img src="/images/square_blue.png"/></div>
+    <div class="headshot"><img src="/images/CalandraGrima.jpg"/></div>
   </div>
   <div class="col-6_sm-12">
-    <h3>Name</h3>
-    <h4>Position</h4>
-    <p><i class="fas fa-envelope fa-lg"></i> email  [at] petermac.org</p>
-    <p><i class="fab fa-github fa-lg"></i> <a href="https://github.com/">github</a></p>
-    <p><i class="fab fa-twitter fa-lg"></i> <a href="https://twitter.com/">twitter</a></p>
-    <p><i class="fas fa-graduation-cap fa-lg"></i> <a href="https://scholar.google.com.au/citations?hl=en&user=yqdRNz8AAAAJ&view_op=list_works&sortby=pubdate">Google Scholar</a></p>
-    <p><img src="/images/orcid_32x32.png" style="width:1.5em" alt="ORCID iD icon"> <a itemprop="sameAs" href="0000-0002-8461-7467" target="orcid.widget" rel="noopener noreferrer">orcid</a></p>
+    <h3>Calandra Grima</h3>
+    <h4>MSc Student</h4>
+    <p><i class="fas fa-envelope fa-lg"></i> calandra.grima [at] petermac.org</p>
   </div>
   <div class="col-6_sm-12">
     <div class="headshot"><img src="/images/square_blue.png"/></div>
   </div>
   <div class="col-6_sm-12">
-    <h3>Name</h3>
-    <h4>Position</h4>
-    <p><i class="fas fa-envelope fa-lg"></i> email  [at] petermac.org</p>
-    <p><i class="fab fa-github fa-lg"></i> <a href="https://github.com/">github</a></p>
-    <p><i class="fab fa-twitter fa-lg"></i> <a href="https://twitter.com/">twitter</a></p>
-    <p><i class="fas fa-graduation-cap fa-lg"></i> <a href="https://scholar.google.com.au/citations?hl=en&user=yqdRNz8AAAAJ&view_op=list_works&sortby=pubdate">Google Scholar</a></p>
-    <p><img src="/images/orcid_32x32.png" style="width:1.5em" alt="ORCID iD icon"> <a itemprop="sameAs" href="0000-0002-8461-7467" target="orcid.widget" rel="noopener noreferrer">orcid</a></p>
+    <h3>Lucy Olsen</h3>
+    <h4>Honours Student</h4>
+    <p><i class="fas fa-envelope fa-lg"></i> lucy.olsen  [at] petermac.org</p>
+    <p><i class="fab fa-twitter fa-lg"></i> <a href="https://twitter.com/lucylolsen">lucylolsen</a></p>
   </div>
   <div class="col-6_sm-12">
     <div class="headshot"><img src="/images/square_blue.png"/></div>
