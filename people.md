@@ -43,7 +43,7 @@ permalink: /people/
     <div class="headshot"><img src="/images/AndrewLonsdale.jpg"/></div>
   </div>
   <div class="col-6_sm-12">
-    <h3>Andrew Lonsdale</h3>
+    <h3>Dr Andrew Lonsdale</h3>
     <h4>Post-doctoral researcher</h4>
     <p><i class="fas fa-envelope fa-lg"></i> andrew.lonsdale [at] petermac.org</p>
     <p><i class="fab fa-github fa-lg"></i> <a href="https://github.com/LonsBio">LonsBio</a></p>
@@ -55,7 +55,7 @@ permalink: /people/
     <div class="headshot"><img src="/images/square_blue.png"/></div>
   </div>
   <div class="col-6_sm-12">
-  <h3>Andreas Halman</h3>
+  <h3>Dr Andreas Halman</h3>
     <h4>Post-doctoral researcher</h4>
     <p><i class="fas fa-envelope fa-lg"></i> andreas.halman [at] petermac.org</p>
     <p>
