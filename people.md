@@ -170,11 +170,13 @@ permalink: /people/
 
 <div class="grid">
   <div class="col-6_sm-12">
-    <div class="headshot"><img src="/images/square_blue.png"/></div>
+    <div class="headshot"><img src="/images/NadiaWEHI.jpeg"/></div>
   </div>
   <div class="col-6_sm-12">
     <h3>Dr Nadia Davidson</h3>
     <h4>Team leader</h4>
+    <p><i class="fas fa-link fa-lg"></i> <a href="https://www.wehi.edu.au/people/nadia-davidson">Currently at WEHI</a> </p>
+
     <p><i class="fas fa-envelope fa-lg"></i> nadia.davidson [at] petermac.org</p>
     <p><i class="fab fa-github fa-lg"></i> <a href="https://github.com/nadiadavidson">nadiadavidson</a></p>
     <p><i class="fab fa-twitter fa-lg"></i> <a href="https://twitter.com/nadia_davidson">nadia_davidson</a></p>
@@ -182,7 +184,7 @@ permalink: /people/
     <p><img src="/images/orcid_32x32.png" style="width:1.5em" alt="ORCID iD icon"> <a itemprop="sameAs" href="0000-0002-8461-7467" target="orcid.widget" rel="noopener noreferrer">0000-0002-8461-7467</a></p>
   </div>
   <div class="col-6_sm-12">
-    <div class="headshot"><img src="/images/BelindaPhipson.jpg"/></div>
+    <div class="headshot"><img src="/images/BelindaPhipsonWEHI.jpeg"/></div>
   </div>
   <div class="col-6_sm-12">
     <h3>Dr Belinda Phipson</h3>
