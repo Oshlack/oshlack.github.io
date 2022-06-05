@@ -90,16 +90,15 @@ permalink: /people/
     <p><img src="/images/orcid_32x32.png" style="width:1.5em" alt="ORCID iD icon"> <a itemprop="sameAs" href="0000-0002-8461-7467" target="orcid.widget" rel="noopener noreferrer">orcid</a></p>
   </div>
   <div class="col-6_sm-12">
-    <div class="headshot"><img src="/images/square_blue.png"/></div>
+    <div class="headshot"><img src="/images/AllenGu.jpg"/></div>
   </div>
   <div class="col-6_sm-12">
     <h3>Allen Gu</h3>
     <h4>Research Assistant</h4>
     <p><i class="fas fa-envelope fa-lg"></i> email  [at] petermac.org</p>
-    <p><i class="fab fa-github fa-lg"></i> <a href="https://github.com/">github</a></p>
-    <p><i class="fab fa-twitter fa-lg"></i> <a href="https://twitter.com/">twitter</a></p>
-    <p><i class="fas fa-graduation-cap fa-lg"></i> <a href="https://scholar.google.com.au/citations?hl=en&user=yqdRNz8AAAAJ&view_op=list_works&sortby=pubdate">Google Scholar</a></p>
-    <p><img src="/images/orcid_32x32.png" style="width:1.5em" alt="ORCID iD icon"> <a itemprop="sameAs" href="0000-0002-8461-7467" target="orcid.widget" rel="noopener noreferrer">orcid</a></p>
+    <p><i class="fab fa-github fa-lg"></i> <a href="https://github.com/AllenZPGu">AllenZPGu</a></p>
+    <p><i class="fab fa-twitter fa-lg"></i> <a href="https://twitter.com/ali_geeee">ali_geeee</a></p>
+    <p><img src="/images/orcid_32x32.png" style="width:1.5em" alt="ORCID iD icon"> <a itemprop="sameAs" href="0000-0001-8503-6069" target="orcid.widget" rel="noopener noreferrer">0000-0001-8503-6069</a></p>
   </div>
   <div class="col-6_sm-12">
     <div class="headshot"><img src="/images/square_blue.png"/></div>
@@ -139,7 +138,7 @@ permalink: /people/
     <p><i class="fas fa-envelope fa-lg"></i> calandra.grima [at] petermac.org</p>
   </div>
   <div class="col-6_sm-12">
-    <div class="headshot"><img src="/images/LucyOlsen.jpg"/></div>
+    <div class="headshot"><img src="/images/LucyOlsen2.jpg"/></div>
   </div>
   <div class="col-6_sm-12">
     <h3>Lucy Olsen</h3>
@@ -148,7 +147,7 @@ permalink: /people/
     <p><i class="fab fa-twitter fa-lg"></i> <a href="https://twitter.com/lucylolsen">lucylolsen</a></p>
   </div>
   <div class="col-6_sm-12">
-    <div class="headshot"><img src="/images/square_blue.png"/></div>
+    <div class="headshot"><img src="/images/CaitlinPage.jpg"/></div>
   </div>
   <div class="col-6_sm-12">
     <h3>Caitlin Page</h3>
