@@ -197,7 +197,6 @@ permalink: /people/
 ## Past members
 
 <div class="grid">
-<!--->
 
 
 
