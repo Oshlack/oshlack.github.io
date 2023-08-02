@@ -100,18 +100,23 @@ permalink: /people/
     <p><i class="fab fa-twitter fa-lg"></i> <a href="https://twitter.com/ali_geeee">ali_geeee</a></p>
     <p><img src="/images/orcid_32x32.png" style="width:1.5em" alt="ORCID iD icon"> <a itemprop="sameAs" href="https://orcid.org/0000-0001-8503-6069" target="orcid.widget" rel="noopener noreferrer">0000-0001-8503-6069</a></p>
   </div>
+
+
+  <!------->
   <div class="col-6_sm-12">
     <div class="headshot"><img src="/images/square_blue.png"/></div>
   </div>
   <div class="col-6_sm-12">
-    <h3>Name</h3>
-    <h4>Position</h4>
+    <h3>Gunjan Dixit</h3>
+    <h4>Postdoctoral Researcher</h4>
     <p><i class="fas fa-envelope fa-lg"></i> email  [at] petermac.org</p>
     <p><i class="fab fa-github fa-lg"></i> <a href="https://github.com/">github</a></p>
     <p><i class="fab fa-twitter fa-lg"></i> <a href="https://twitter.com/">twitter</a></p>
     <p><i class="fas fa-graduation-cap fa-lg"></i> <a href="https://scholar.google.com.au/citations?hl=en&user=yqdRNz8AAAAJ&view_op=list_works&sortby=pubdate">Google Scholar</a></p>
     <p><img src="/images/orcid_32x32.png" style="width:1.5em" alt="ORCID iD icon"> <a itemprop="sameAs" href="https://orcid.org/0000-0002-8461-7467" target="orcid.widget" rel="noopener noreferrer">orcid</a></p>
   </div>
+  <!------->
+
 
 
 </div>
@@ -129,6 +134,7 @@ permalink: /people/
     <p><i class="fab fa-github fa-lg"></i> <a href="https://github.com/michael-nakai">michael-nakai</a></p>
     <p><img src="/images/orcid_32x32.png" style="width:1.5em" alt="ORCID iD icon"> <a itemprop="sameAs" href="https://orcid.org/0000-0002-6400-8007" target="orcid.widget" rel="noopener noreferrer">0000-0002-6400-8007</a></p>
   </div>
+  
   <div class="col-6_sm-12">
     <div class="headshot"><img src="/images/CalandraGrima.jpg"/></div>
   </div>
@@ -154,7 +160,48 @@ permalink: /people/
     <h4>Honours Student</h4>
     <p><i class="fas fa-envelope fa-lg"></i> caitlin.page [at] petermac.org</p>
   </div>
+ 
+  
+ <!------->
   <div class="col-6_sm-12">
+    <div class="headshot"><img src="/images/square_blue.png"/></div>
+  </div>
+  <div class="col-6_sm-12">
+    <h3>Keziah Tikno</h3>
+    <h4>MSc Student</h4>
+    <p><i class="fas fa-envelope fa-lg"></i> email  [at] petermac.org</p>
+    <p><i class="fab fa-github fa-lg"></i> <a href="https://github.com/">github</a></p>
+    <p><i class="fab fa-twitter fa-lg"></i> <a href="https://twitter.com/">twitter</a></p>
+    <p><i class="fas fa-graduation-cap fa-lg"></i> <a href="https://scholar.google.com.au/citations?hl=en&user=yqdRNz8AAAAJ&view_op=list_works&sortby=pubdate">Google Scholar</a></p>
+    <p><img src="/images/orcid_32x32.png" style="width:1.5em" alt="ORCID iD icon"> <a itemprop="sameAs" href="https://orcid.org/0000-0002-8461-7467" target="orcid.widget" rel="noopener noreferrer">orcid</a></p>
+  </div>
+  <!------->
+
+ <!------->
+  <div class="col-6_sm-12">
+    <div class="headshot"><img src="/images/square_blue.png"/></div>
+  </div>
+  <div class="col-6_sm-12">
+    <h3>Dr Roshan Jalaldeen</h3>
+    <h4>MSc Student</h4>
+    <p><i class="fas fa-envelope fa-lg"></i> email  [at] petermac.org</p>
+    <p><i class="fab fa-github fa-lg"></i> <a href="https://github.com/">github</a></p>
+    <p><i class="fab fa-twitter fa-lg"></i> <a href="https://twitter.com/">twitter</a></p>
+    <p><i class="fas fa-graduation-cap fa-lg"></i> <a href="https://scholar.google.com.au/citations?hl=en&user=yqdRNz8AAAAJ&view_op=list_works&sortby=pubdate">Google Scholar</a></p>
+    <p><img src="/images/orcid_32x32.png" style="width:1.5em" alt="ORCID iD icon"> <a itemprop="sameAs" href="https://orcid.org/0000-0002-8461-7467" target="orcid.widget" rel="noopener noreferrer">orcid</a></p>
+  </div>
+  <!------->
+
+
+
+
+</div>
+
+
+  
+## Past members
+
+ <div class="col-6_sm-12">
     <div class="headshot"><img src="/images/square_blue.png"/></div>
   </div>
   <div class="col-6_sm-12">
@@ -163,10 +210,7 @@ permalink: /people/
     <p><i class="fas fa-envelope fa-lg"></i> breon.schmidt [at] petermac.org</p>
     <p><i class="fab fa-github fa-lg"></i> <a href="https://github.com/breons">breons</a></p>
   </div>
-</div>
   
-## Past members
-
 <div class="grid">
   <div class="col-6_sm-12">
     <div class="headshot"><img src="/images/NadiaWEHI.jpeg"/></div>
