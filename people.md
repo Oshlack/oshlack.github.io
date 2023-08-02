@@ -117,6 +117,16 @@ permalink: /people/
   </div>
   <!------->
 
+  
+  <div class="col-6_sm-12">
+    <div class="headshot"><img src="/images/CaitlinPageSquare.jpg"/></div>
+  </div>
+  <div class="col-6_sm-12">
+    <h3>Caitlin Page</h3>
+    <h4>Research Assistant</h4>
+    <p><i class="fas fa-envelope fa-lg"></i> caitlin.page [at] petermac.org</p>
+  </div>
+ 
 
 
 </div>
@@ -143,24 +153,8 @@ permalink: /people/
     <h4>MSc Student</h4>
     <p><i class="fas fa-envelope fa-lg"></i> calandra.grima [at] petermac.org</p>
   </div>
-  <div class="col-6_sm-12">
-    <div class="headshot"><img src="/images/LucyOlsen2.jpg"/></div>
-  </div>
-  <div class="col-6_sm-12">
-    <h3>Lucy Olsen</h3>
-    <h4>Honours Student</h4>
-    <p><i class="fas fa-envelope fa-lg"></i> lucy.olsen  [at] petermac.org</p>
-    <p><i class="fab fa-twitter fa-lg"></i> <a href="https://twitter.com/lucylolsen">lucylolsen</a></p>
-  </div>
-  <div class="col-6_sm-12">
-    <div class="headshot"><img src="/images/CaitlinPageSquare.jpg"/></div>
-  </div>
-  <div class="col-6_sm-12">
-    <h3>Caitlin Page</h3>
-    <h4>Honours Student</h4>
-    <p><i class="fas fa-envelope fa-lg"></i> caitlin.page [at] petermac.org</p>
-  </div>
- 
+
+
   
  <!------->
   <div class="col-6_sm-12">
@@ -201,6 +195,22 @@ permalink: /people/
   
 ## Past members
 
+<div class="grid">
+<!--->
+
+
+
+    <div class="col-6_sm-12">
+    <div class="headshot"><img src="/images/LucyOlsen2.jpg"/></div>
+  </div>
+  <div class="col-6_sm-12">
+    <h3>Lucy Olsen</h3>
+    <h4>Honours Student</h4>
+    <p><i class="fas fa-envelope fa-lg"></i> lucy.olsen  [at] petermac.org</p>
+    <p><i class="fab fa-twitter fa-lg"></i> <a href="https://twitter.com/lucylolsen">lucylolsen</a></p>
+  </div>
+
+  
  <div class="col-6_sm-12">
     <div class="headshot"><img src="/images/square_blue.png"/></div>
   </div>
@@ -211,7 +221,6 @@ permalink: /people/
     <p><i class="fab fa-github fa-lg"></i> <a href="https://github.com/breons">breons</a></p>
   </div>
   
-<div class="grid">
   <div class="col-6_sm-12">
     <div class="headshot"><img src="/images/NadiaWEHI.jpeg"/></div>
   </div>
