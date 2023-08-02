@@ -134,6 +134,7 @@ permalink: /people/
 ## Students
 
 <div class="grid">
+  
   <div class="col-6_sm-12">
     <div class="headshot"><img src="/images/MichaelNakai.JPG"/></div>
   </div>
