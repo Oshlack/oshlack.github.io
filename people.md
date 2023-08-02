@@ -188,7 +188,16 @@ permalink: /people/
   <!------->
 
 
-
+<div class="col-6_sm-12">
+    <div class="headshot"><img src="/images/LiyangFei.jpg"/></div>
+  </div>
+  <div class="col-6_sm-12">
+    <h3>Liyang Fei</h3>
+    <h4>PhD Student</h4>
+    <p><i class="fas fa-envelope fa-lg"></i> liyang.fei [at] petermac.org</p>
+    <p><i class="fab fa-github fa-lg"></i> <a href="https://github.com/FeiLiyang">FeiLiyang</a></p>
+    <p><img src="/images/orcid_32x32.png" style="width:1.5em" alt="ORCID iD icon"> <a itemprop="sameAs" href="https://orcid.org/0000-0002-3293-2094" target="orcid.widget" rel="noopener noreferrer">0000-0002-3293-2094</a></p>
+</div>
 
 </div>
 
@@ -220,6 +229,9 @@ permalink: /people/
     <p><i class="fas fa-envelope fa-lg"></i> breon.schmidt [at] petermac.org</p>
     <p><i class="fab fa-github fa-lg"></i> <a href="https://github.com/breons">breons</a></p>
   </div>
+  
+    
+
   
   <div class="col-6_sm-12">
     <div class="headshot"><img src="/images/NadiaWEHI.jpeg"/></div>
