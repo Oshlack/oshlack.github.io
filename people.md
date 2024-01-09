@@ -5,7 +5,7 @@ permalink: /people/
 ---
 
   <div class="col-6_sm-12">
-    <div><img src="/images/oshlack_no_bg.png"/></div>
+    <div><img src="/images/oslack_lab_2023.jpg"/></div>
   </div>
 ## Group Leader
 
