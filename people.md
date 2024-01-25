@@ -128,6 +128,14 @@ permalink: /people/
   </div>
  
 
+  <div class="col-6_sm-12">
+    <div class="headshot"><img src="/images/square_blue.png"/></div>
+  </div>
+  <div class="col-6_sm-12">
+    <h3>Victoria Streeton-Cook</h3>
+    <h4>Research Assistant</h4>
+    <p><i class="fas fa-envelope fa-lg"></i>  [at] petermac.org</p>
+  </div>
 
 </div>
 
@@ -199,6 +207,80 @@ permalink: /people/
     <p><img src="/images/orcid_32x32.png" style="width:1.5em" alt="ORCID iD icon"> <a itemprop="sameAs" href="https://orcid.org/0000-0002-3293-2094" target="orcid.widget" rel="noopener noreferrer">0000-0002-3293-2094</a></p>
 </div>
 
+
+
+ <!------->
+  <div class="col-6_sm-12">
+    <div class="headshot"><img src="/images/square_blue.png"/></div>
+  </div>
+  <div class="col-6_sm-12">
+    <h3></h3>
+    <h4>PhD Student</h4>
+    <h5>Co-supervised with: </h5>
+    <p><i class="fas fa-envelope fa-lg"></i> email  [at] petermac.org</p>
+    <p><i class="fab fa-github fa-lg"></i> <a href="https://github.com/">github</a></p>
+    <p><i class="fab fa-twitter fa-lg"></i> <a href="https://twitter.com/">twitter</a></p>
+    <p><i class="fas fa-graduation-cap fa-lg"></i> <a href="https://scholar.google.com.au/citations?hl=en&user=USERID&view_op=list_works&sortby=pubdate">Google Scholar</a></p>
+    <p><img src="/images/orcid_32x32.png" style="width:1.5em" alt="ORCID iD icon"> <a itemprop="sameAs" href="https://orcid.org/0000-0002-8461-7467" target="orcid.widget" rel="noopener noreferrer">orcid</a></p>
+  </div>
+  <!------->
+
+  
+ <!------->
+  <div class="col-6_sm-12">
+    <div class="headshot"><img src="/images/square_blue.png"/></div>
+  </div>
+  <div class="col-6_sm-12">
+    <h3></h3>
+    <h4>PhD Student</h4>
+    <h5>Co-supervised with: </h5>
+    <p><i class="fas fa-envelope fa-lg"></i> email  [at] petermac.org</p>
+    <p><i class="fab fa-github fa-lg"></i> <a href="https://github.com/">github</a></p>
+    <p><i class="fab fa-twitter fa-lg"></i> <a href="https://twitter.com/">twitter</a></p>
+    <p><i class="fas fa-graduation-cap fa-lg"></i> <a href="https://scholar.google.com.au/citations?hl=en&user=USERID&view_op=list_works&sortby=pubdate">Google Scholar</a></p>
+    <p><img src="/images/orcid_32x32.png" style="width:1.5em" alt="ORCID iD icon"> <a itemprop="sameAs" href="https://orcid.org/0000-0002-8461-7467" target="orcid.widget" rel="noopener noreferrer">orcid</a></p>
+  </div>
+  <!------->
+
+
+
+ <!------->
+  <div class="col-6_sm-12">
+    <div class="headshot"><img src="/images/square_blue.png"/></div>
+  </div>
+  <div class="col-6_sm-12">
+    <h3></h3>
+    <h4>PhD Student</h4>
+    <h5>Co-supervised with: </h5>
+    <p><i class="fas fa-envelope fa-lg"></i> email  [at] petermac.org</p>
+    <p><i class="fab fa-github fa-lg"></i> <a href="https://github.com/">github</a></p>
+    <p><i class="fab fa-twitter fa-lg"></i> <a href="https://twitter.com/">twitter</a></p>
+    <p><i class="fas fa-graduation-cap fa-lg"></i> <a href="https://scholar.google.com.au/citations?hl=en&user=USERID&view_op=list_works&sortby=pubdate">Google Scholar</a></p>
+    <p><img src="/images/orcid_32x32.png" style="width:1.5em" alt="ORCID iD icon"> <a itemprop="sameAs" href="https://orcid.org/0000-0002-8461-7467" target="orcid.widget" rel="noopener noreferrer">orcid</a></p>
+  </div>
+  <!------->
+
+
+ <!------->
+  <div class="col-6_sm-12">
+    <div class="headshot"><img src="/images/square_blue.png"/></div>
+  </div>
+  <div class="col-6_sm-12">
+    <h3></h3>
+    <h4>PhD Student</h4>
+    <h5>Co-supervised with: </h5>
+    <p><i class="fas fa-envelope fa-lg"></i> email  [at] petermac.org</p>
+    <p><i class="fab fa-github fa-lg"></i> <a href="https://github.com/">github</a></p>
+    <p><i class="fab fa-twitter fa-lg"></i> <a href="https://twitter.com/">twitter</a></p>
+    <p><i class="fas fa-graduation-cap fa-lg"></i> <a href="https://scholar.google.com.au/citations?hl=en&user=USERID&view_op=list_works&sortby=pubdate">Google Scholar</a></p>
+    <p><img src="/images/orcid_32x32.png" style="width:1.5em" alt="ORCID iD icon"> <a itemprop="sameAs" href="https://orcid.org/0000-0002-8461-7467" target="orcid.widget" rel="noopener noreferrer">orcid</a></p>
+  </div>
+  <!------->
+
+
+
+
+  
 </div>
 
 
