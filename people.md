@@ -285,7 +285,7 @@ permalink: /people/
     <h3>Lucas Tobar
 </h3>
     <h4>PhD Student</h4>
-    <h5>Co-supervised with: </h5>
+    <h5>Lab </h5>
     <p><i class="fas fa-envelope fa-lg"></i> email  [at] petermac.org</p>
     <p><i class="fab fa-github fa-lg"></i> <a href="https://github.com/">github</a></p>
     <p><i class="fab fa-twitter fa-lg"></i> <a href="https://twitter.com/">twitter</a></p>
