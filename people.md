@@ -236,6 +236,9 @@ permalink: /people/
 
 ## Students - Peter Mac Labs
 
+</div>
+
+<div class="grid">
 
  <!------->
   <div class="col-6_sm-12">
