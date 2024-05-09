@@ -234,9 +234,11 @@ permalink: /people/
 </div>
 
 
-## Students - Peter Mac Labs
 
 </div>
+
+## Students - Peter Mac Labs
+
 
 <div class="grid">
 
