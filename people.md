@@ -117,16 +117,7 @@ permalink: /people/
   </div>
   <!------->
 
-  
-  <div class="col-6_sm-12">
-    <div class="headshot"><img src="/images/CaitlinPageSquare.jpg"/></div>
-  </div>
-  <div class="col-6_sm-12">
-    <h3>Caitlin Page</h3>
-    <h4>Research Assistant</h4>
-    <p><i class="fas fa-envelope fa-lg"></i> caitlin.page [at] petermac.org</p>
-  </div>
- 
+
 
   <div class="col-6_sm-12">
     <div class="headshot"><img src="/images/square_blue.png"/></div>
@@ -137,10 +128,43 @@ permalink: /people/
     <p><i class="fas fa-envelope fa-lg"></i>  [at] petermac.org</p>
   </div>
 
+
+  
+ <!------->
+  <div class="col-6_sm-12">
+    <div class="headshot"><img src="/images/square_blue.png"/></div>
+  </div>
+  <div class="col-6_sm-12">
+    <h3>Nicole Saw</h3>
+    <h4>Research Assistant </h4>
+      <h5>Parish Lab </h5>
+    <p><i class="fas fa-envelope fa-lg"></i> email  [at] petermac.org</p>
+    <p><i class="fab fa-github fa-lg"></i> <a href="https://github.com/">github</a></p>
+    <p><i class="fab fa-twitter fa-lg"></i> <a href="https://twitter.com/">twitter</a></p>
+    <p><i class="fas fa-graduation-cap fa-lg"></i> <a href="https://scholar.google.com.au/citations?hl=en&user=USERID&view_op=list_works&sortby=pubdate">Google Scholar</a></p>
+    <p><img src="/images/orcid_32x32.png" style="width:1.5em" alt="ORCID iD icon"> <a itemprop="sameAs" href="https://orcid.org/0000-0002-8461-7467" target="orcid.widget" rel="noopener noreferrer">orcid</a></p>
+  </div>
+  <!------->
+
+
+
 </div>
 
-## Students
 
+
+## Students - Oshlack Lab
+
+  
+  <div class="col-6_sm-12">
+    <div class="headshot"><img src="/images/CaitlinPageSquare.jpg"/></div>
+  </div>
+  <div class="col-6_sm-12">
+    <h3>Caitlin Page</h3>
+    <h4>PhD Student</h4>
+    <p><i class="fas fa-envelope fa-lg"></i> caitlin.page [at] petermac.org</p>
+  </div>
+
+ 
 <div class="grid">
   
   <div class="col-6_sm-12">
@@ -207,6 +231,7 @@ permalink: /people/
     <p><img src="/images/orcid_32x32.png" style="width:1.5em" alt="ORCID iD icon"> <a itemprop="sameAs" href="https://orcid.org/0000-0002-3293-2094" target="orcid.widget" rel="noopener noreferrer">0000-0002-3293-2094</a></p>
 </div>
 
+## Students - Peter Mac Labs
 
 
  <!------->
@@ -214,7 +239,7 @@ permalink: /people/
     <div class="headshot"><img src="/images/square_blue.png"/></div>
   </div>
   <div class="col-6_sm-12">
-    <h3></h3>
+    <h3>Oliver Yu</h3>
     <h4>PhD Student</h4>
     <h5>Co-supervised with: </h5>
     <p><i class="fas fa-envelope fa-lg"></i> email  [at] petermac.org</p>
@@ -231,7 +256,7 @@ permalink: /people/
     <div class="headshot"><img src="/images/square_blue.png"/></div>
   </div>
   <div class="col-6_sm-12">
-    <h3></h3>
+    <h3>Lauren Tjoeka</h3>
     <h4>PhD Student</h4>
     <h5>Co-supervised with: </h5>
     <p><i class="fas fa-envelope fa-lg"></i> email  [at] petermac.org</p>
@@ -249,7 +274,26 @@ permalink: /people/
     <div class="headshot"><img src="/images/square_blue.png"/></div>
   </div>
   <div class="col-6_sm-12">
-    <h3></h3>
+    <h3>Lucas Tobar
+</h3>
+    <h4>PhD Student</h4>
+    <h5>Co-supervised with: </h5>
+    <p><i class="fas fa-envelope fa-lg"></i> email  [at] petermac.org</p>
+    <p><i class="fab fa-github fa-lg"></i> <a href="https://github.com/">github</a></p>
+    <p><i class="fab fa-twitter fa-lg"></i> <a href="https://twitter.com/">twitter</a></p>
+    <p><i class="fas fa-graduation-cap fa-lg"></i> <a href="https://scholar.google.com.au/citations?hl=en&user=USERID&view_op=list_works&sortby=pubdate">Google Scholar</a></p>
+    <p><img src="/images/orcid_32x32.png" style="width:1.5em" alt="ORCID iD icon"> <a itemprop="sameAs" href="https://orcid.org/0000-0002-8461-7467" target="orcid.widget" rel="noopener noreferrer">orcid</a></p>
+  </div>
+  <!------->
+
+
+
+ <!------->
+  <div class="col-6_sm-12">
+    <div class="headshot"><img src="/images/square_blue.png"/></div>
+  </div>
+  <div class="col-6_sm-12">
+    <h3>Tongtong Wang</h3>
     <h4>PhD Student</h4>
     <h5>Co-supervised with: </h5>
     <p><i class="fas fa-envelope fa-lg"></i> email  [at] petermac.org</p>
@@ -266,7 +310,7 @@ permalink: /people/
     <div class="headshot"><img src="/images/square_blue.png"/></div>
   </div>
   <div class="col-6_sm-12">
-    <h3></h3>
+    <h3>Nikita Dalvi</h3>
     <h4>PhD Student</h4>
     <h5>Co-supervised with: </h5>
     <p><i class="fas fa-envelope fa-lg"></i> email  [at] petermac.org</p>
@@ -276,8 +320,6 @@ permalink: /people/
     <p><img src="/images/orcid_32x32.png" style="width:1.5em" alt="ORCID iD icon"> <a itemprop="sameAs" href="https://orcid.org/0000-0002-8461-7467" target="orcid.widget" rel="noopener noreferrer">orcid</a></p>
   </div>
   <!------->
-
-
 
 
   
@@ -407,6 +449,8 @@ permalink: /people/
   </div>
 </div>
 
+
+* **Vincent Corbin** - Postdoctoral researcher
 * **Sam Hainsworth** - PhD student
 * **Dr Anthony Hawkins** - Post-doctoral researcher (2016)
   <a href="https://github.com/Quarkins"><i class="fab fa-github"></i></a>
