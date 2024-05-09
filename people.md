@@ -155,6 +155,11 @@ permalink: /people/
 ## Students - Oshlack Lab
 
   
+
+ 
+<div class="grid">
+
+
   <div class="col-6_sm-12">
     <div class="headshot"><img src="/images/CaitlinPageSquare.jpg"/></div>
   </div>
@@ -163,9 +168,6 @@ permalink: /people/
     <h4>PhD Student</h4>
     <p><i class="fas fa-envelope fa-lg"></i> caitlin.page [at] petermac.org</p>
   </div>
-
- 
-<div class="grid">
   
   <div class="col-6_sm-12">
     <div class="headshot"><img src="/images/MichaelNakai.JPG"/></div>
@@ -230,6 +232,7 @@ permalink: /people/
     <p><i class="fab fa-github fa-lg"></i> <a href="https://github.com/FeiLiyang">FeiLiyang</a></p>
     <p><img src="/images/orcid_32x32.png" style="width:1.5em" alt="ORCID iD icon"> <a itemprop="sameAs" href="https://orcid.org/0000-0002-3293-2094" target="orcid.widget" rel="noopener noreferrer">0000-0002-3293-2094</a></p>
 </div>
+
 
 ## Students - Peter Mac Labs
 
