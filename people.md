@@ -47,7 +47,7 @@ permalink: /people/
     <h4>Post-doctoral researcher</h4>
     <p><i class="fas fa-envelope fa-lg"></i> andrew.lonsdale [at] petermac.org</p>
     <p><i class="fab fa-github fa-lg"></i> <a href="https://github.com/LonsBio">LonsBio</a></p>
-    <p><i class="fab fa-twitter fa-lg"></i> <a href="https://twitter.com/LonsBio">LonsBio</a></p>
+    <p><i class="fab fa-bluesky fa-lg"></i> <a href="https://bsky.app/profile/lonsbio.bsky.social/LonsBio">LonsBio</a></p>
     <p><i class="fas fa-graduation-cap fa-lg"></i> <a href="https://scholar.google.com.au/citations?hl=en&user=oFwOceEAAAAJ&view_op=list_works&sortby=pubdate">Andrew Lonsdale</a></p>
     <p><img src="/images/orcid_32x32.png" style="width:1.5em" alt="ORCID iD icon"> <a itemprop="sameAs" href="https://orcid.org/0000-0002-0292-2880" target="orcid.widget" rel="noopener noreferrer">0000-0002-0292-2880</a></p>
   </div>
