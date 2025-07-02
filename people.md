@@ -381,6 +381,8 @@ permalink: /people/
   
 </div>
 
+  
+</div>
 
   
 ## Past members
