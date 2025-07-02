@@ -104,16 +104,16 @@ permalink: /people/
 
   <!------->
   <div class="col-6_sm-12">
-    <div class="headshot"><img src="/images/square_blue.png"/></div>
+    <div class="headshot"><img src="/images/GunjanDixit.jpeg"/></div>
   </div>
   <div class="col-6_sm-12">
-    <h3>Gunjan Dixit</h3>
-    <h4>Postdoctoral Researcher</h4>
-    <p><i class="fas fa-envelope fa-lg"></i> email  [at] petermac.org</p>
-    <p><i class="fab fa-github fa-lg"></i> <a href="https://github.com/">github</a></p>
-    <p><i class="fab fa-twitter fa-lg"></i> <a href="https://twitter.com/">twitter</a></p>
-    <p><i class="fas fa-graduation-cap fa-lg"></i> <a href="https://scholar.google.com.au/citations?hl=en&user=yqdRNz8AAAAJ&view_op=list_works&sortby=pubdate">Google Scholar</a></p>
-    <p><img src="/images/orcid_32x32.png" style="width:1.5em" alt="ORCID iD icon"> <a itemprop="sameAs" href="https://orcid.org/0000-0002-8461-7467" target="orcid.widget" rel="noopener noreferrer">orcid</a></p>
+    <h3>Dr Gunjan Dixit</h3>
+    <h4>Post-doctoral researcher</h4>
+    <p><i class="fas fa-envelope fa-lg"></i> gunjan.dixit  [at] petermac.org</p>
+    <p><i class="fab fa-github fa-lg"></i> <a href="https://github.com/Gunjan-Dixit">Gunjan-Dixit</a></p>
+    <p><i class="fab fa-bluesky fa-lg"></i> <a href="https://bsky.app/profile/gunjand.bsky.social">GunjanD</a></p>
+    <p><i class="fas fa-graduation-cap fa-lg"></i> <a href="https://scholar.google.co.in/citations?hl=en&user=zZlxVvUAAAAJ&view_op=list_works&sortby=pubdate">Google Scholar</a></p>
+    <p><img src="/images/orcid_32x32.png" style="width:1.5em" alt="ORCID iD icon"> <a itemprop="sameAs" href="https://orcid.org/0000-0003-4609-4316" target="orcid.widget" rel="noopener noreferrer">orcid</a></p>
   </div>
   <!------->
 
