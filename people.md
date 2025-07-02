@@ -152,7 +152,7 @@ permalink: /people/
   <div class="col-6_sm-12">
     <h3>Krutika Ambani</h3>
     <h4>Research Assistant</h4>
-        <h5>Parish Lab </h5>
+        <h5>Goel Lab </h5>
     <p><i class="fas fa-envelope fa-lg"></i>  [at] petermac.org</p>
   </div>
 
