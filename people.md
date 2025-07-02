@@ -238,7 +238,7 @@ permalink: /people/
   </div>
   
   <div class="col-6_sm-12">
-    <div class="headshot"><img src="/images/MichelleMeier.JPG"/></div>
+    <div class="headshot"><img src="/images/MichelleMeier.jpg"/></div>
   </div>
   <div class="col-6_sm-12">
     <h3>Michelle Meier</h3>
