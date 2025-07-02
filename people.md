@@ -255,7 +255,7 @@ permalink: /people/
     <p><img src="/images/orcid_32x32.png" style="width:1.5em" alt="ORCID iD icon"> <a itemprop="sameAs" href="https://orcid.org/0009-0005-5595-3882" target="orcid.widget" rel="noopener noreferrer">0009-0005-5595-3882</a></p>
   </div>
 
-</div>
+
 
 
 
