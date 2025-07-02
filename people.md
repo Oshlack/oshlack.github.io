@@ -87,7 +87,7 @@ permalink: /people/
     <p><i class="fab fa-github fa-lg"></i> <a href="https://github.com/">github</a></p>
     <p><i class="fab fa-twitter fa-lg"></i> <a href="https://twitter.com/">twitter</a></p>
     <p><i class="fas fa-graduation-cap fa-lg"></i> <a href="https://scholar.google.com.au/citations?hl=en&user=yqdRNz8AAAAJ&view_op=list_works&sortby=pubdate">Google Scholar</a></p>
-    <p><img src="/images/orcid_32x32.png" style="width:1.5em" alt="ORCID iD icon"> <a itemprop="sameAs" href="https://orcid.org/0000-0002-8461-7467" target="orcid.widget" rel="noopener noreferrer">orcid</a></p>
+    <p><img src="/images/orcid_32x32.png" style="width:1.5em" alt="ORCID iD icon"> <a itemprop="sameAs" href="https://orcid.org/0000-0002-9806-9676" target="orcid.widget" rel="noopener noreferrer">orcid</a></p>
   </div>
   <div class="col-6_sm-12">
     <div class="headshot"><img src="/images/AllenGu2.jpg"/></div>
@@ -192,6 +192,8 @@ permalink: /people/
   </div>
 
 
+ <!------->
+
   <div class="col-6_sm-12">
     <div class="headshot"><img src="/images/square_blue.png"/></div>
   </div>
@@ -200,6 +202,7 @@ permalink: /people/
     <h4>PhD Student</h4>
     <p><i class="fas fa-envelope fa-lg"></i> hiep.dang [at] petermac.org</p>
   </div>
+
 
  <!------->
   <div class="col-6_sm-12">
@@ -228,6 +231,7 @@ permalink: /people/
     <p><img src="/images/orcid_32x32.png" style="width:1.5em" alt="ORCID iD icon"> <a itemprop="sameAs" href="https://orcid.org/0000-0002-3293-2094" target="orcid.widget" rel="noopener noreferrer">0000-0002-3293-2094</a></p>
 </div>
 
+
 <div class="col-6_sm-12">
     <div class="headshot"><img src="/images/CaitlinPageSquare.jpg"/></div>
   </div>
@@ -251,6 +255,8 @@ permalink: /people/
 </div>
 
 
+
+</div>
 
 ## Students - Peter Mac Labs
 
