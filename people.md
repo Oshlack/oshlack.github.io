@@ -190,6 +190,15 @@ permalink: /people/
   </div>
 
 
+  <div class="col-6_sm-12">
+    <div class="headshot"><img src="/images/square_blue.png"/></div>
+  </div>
+  <div class="col-6_sm-12">
+    <h3>Hiep Dang</h3>
+    <h4>PhD Student</h4>
+    <p><i class="fas fa-envelope fa-lg"></i> hiep.dang [at] petermac.org</p>
+  </div>
+
   
  <!------->
   <div class="col-6_sm-12">
