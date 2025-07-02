@@ -331,7 +331,7 @@ permalink: /people/
 
   <!------->
   <div class="col-6_sm-12">
-    <div class="headshot"><img src="/images/square_blue.png"/></div>
+    <div class="headshot"><img src="/images/junyao.jpg"/></div>
   </div>
   <div class="col-6_sm-12">
     <h3>Jun Yao Teow</h3>
