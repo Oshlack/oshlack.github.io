@@ -18,7 +18,8 @@ permalink: /people/
     <h4>Group leader</h4>
     <p><i class="fas fa-envelope fa-lg"></i> alicia.oshlack [at] petermac.org</p>
     <p><i class="fab fa-github fa-lg"></i> <a href="https://github.com/Oshlack">Oshlack</a></p>
-    <p><i class="fab fa-twitter fa-lg"></i> <a href="https://twitter.com/AliciaOshlack">AliciaOshlack</a></p>
+    <p><i class="fab fa-bluesky fa-lg"></i> <a href="https://twitter.com/AliciaOshlack">AliciaOshlack</a></p>
+    <p><i class="fab fa-twitter fa-lg"></i> <a href="https://bsky.app/profile/aliciao.bsky.social">AliciaO</a></p>
     <p><i class="fas fa-graduation-cap fa-lg"></i> <a href="https://scholar.google.com.au/citations?hl=en&user=AvhPV40AAAAJ&view_op=list_works&sortby=pubdate">Alicia Oshlack</a></p>
     <p><img src="/images/orcid_32x32.png" style="width:1.5em" alt="ORCID iD icon"> <a itemprop="sameAs" href="https://orcid.org/0000-0001-9788-5690" target="orcid.widget" rel="noopener noreferrer">0000-0001-9788-5690</a></p>
   </div>
@@ -47,6 +48,7 @@ permalink: /people/
     <h3>Dr Andrew Lonsdale</h3>
     <h4>Post-doctoral researcher</h4>
     <p><i class="fas fa-envelope fa-lg"></i> andrew.lonsdale [at] petermac.org</p>
+        <p><i class="fab fa-linkedin fa-lg"></i> <a href="[https://github.com/LonsBio](https://www.linkedin.com/in/andrew-lonsdale-20a771114/)">LinkedIn</a></p>
     <p><i class="fab fa-github fa-lg"></i> <a href="https://github.com/LonsBio">LonsBio</a></p>
     <p><i class="fab fa-bluesky fa-lg"></i> <a href="https://bsky.app/profile/lonsbio.bsky.social/LonsBio">LonsBio</a></p>
     <p><i class="fas fa-graduation-cap fa-lg"></i> <a href="https://scholar.google.com.au/citations?hl=en&user=oFwOceEAAAAJ&view_op=list_works&sortby=pubdate">Andrew Lonsdale</a></p>
