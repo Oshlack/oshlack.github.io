@@ -218,7 +218,7 @@ permalink: /people/
 
 
 <div class="col-6_sm-12">
-    <div class="headshot"><img src="/images/LiyangFei.jpg"/></div>
+    <div class="headshot"><img src="/images/LiyangFei2.JPG"/></div>
   </div>
   <div class="col-6_sm-12">
     <h3>Liyang Fei</h3>
