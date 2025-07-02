@@ -73,10 +73,9 @@ permalink: /people/
     <h3>Dr George Howitt</h3>
     <h4>Post-doctoral researcher</h4>
     <p><i class="fas fa-envelope fa-lg"></i> george.howitt  [at] petermac.org</p>
-    <p><i class="fab fa-github fa-lg"></i> <a href="https://github.com/">github</a></p>
-    <p><i class="fab fa-twitter fa-lg"></i> <a href="https://twitter.com/">twitter</a></p>
-    <p><i class="fas fa-graduation-cap fa-lg"></i> <a href="https://scholar.google.com.au/citations?hl=en&user=yqdRNz8AAAAJ&view_op=list_works&sortby=pubdate">Google Scholar</a></p>
-    <p><img src="/images/orcid_32x32.png" style="width:1.5em" alt="ORCID iD icon"> <a itemprop="sameAs" href="https://orcid.org/0000-0002-8461-7467" target="orcid.widget" rel="noopener noreferrer">orcid</a></p>
+    <p><i class="fab fa-github fa-lg"></i> <a href="https://github.com/ghowitt">github</a></p>
+    <p><i class="fas fa-graduation-cap fa-lg"></i> <a href="https://scholar.google.com/citations?user=KGg4Uj4AAAAJ&hl=en">Google Scholar</a></p>
+    <p><img src="/images/orcid_32x32.png" style="width:1.5em" alt="ORCID iD icon"> <a itemprop="sameAs" href="https://orcid.org/0000-0002-2593-0189" target="orcid.widget" rel="noopener noreferrer">orcid</a></p>
   </div>
   <div class="col-6_sm-12">
     <div class="headshot"><img src="/images/square_blue.png"/></div>
@@ -168,6 +167,8 @@ permalink: /people/
     <h3>Caitlin Page</h3>
     <h4>PhD Student</h4>
     <p><i class="fas fa-envelope fa-lg"></i> caitlin.page [at] petermac.org</p>
+    <p><i class="fab fa-github fa-lg"></i> <a href="https://github.com/caitlinpage/">caitlinpage</a></p>
+    <p><img src="/images/orcid_32x32.png" style="width:1.5em" alt="ORCID iD icon"> <a itemprop="sameAs" href="https://orcid.org/0009-0004-7949-8143" target="orcid.widget" rel="noopener noreferrer">0000-0002-6400-8007</a></p>
   </div>
   
   <div class="col-6_sm-12">
@@ -179,8 +180,6 @@ permalink: /people/
     <p><i class="fas fa-envelope fa-lg"></i> michael.nakai [at] petermac.org</p>
     <p><i class="fab fa-github fa-lg"></i> <a href="https://github.com/michael-nakai">michael-nakai</a></p>
     <p><img src="/images/orcid_32x32.png" style="width:1.5em" alt="ORCID iD icon"> <a itemprop="sameAs" href="https://orcid.org/0000-0002-6400-8007" target="orcid.widget" rel="noopener noreferrer">0000-0002-6400-8007</a></p>
-    <p><i class="fas fa-graduation-cap fa-lg"></i> <a href="https://scholar.google.com.au/citations?hl=en&user=yqdRNz8AAAAJ&view_op=list_works&sortby=pubdate">Google Scholar</a></p>
-    <p><i class="fab fa-bluesky fa-lg"></i> <a href="https://bsky.app/profile/michael-nakai.bsky.social">LonsBio</a></p>
   </div>
   
   <div class="col-6_sm-12">
