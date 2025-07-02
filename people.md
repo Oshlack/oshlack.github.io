@@ -177,7 +177,7 @@ permalink: /people/
     <h4>PhD Student</h4>
     <p><i class="fas fa-envelope fa-lg"></i> caitlin.page [at] petermac.org</p>
     <p><i class="fab fa-github fa-lg"></i> <a href="https://github.com/caitlinpage/">caitlinpage</a></p>
-    <p><img src="/images/orcid_32x32.png" style="width:1.5em" alt="ORCID iD icon"> <a itemprop="sameAs" href="https://orcid.org/0009-0004-7949-8143" target="orcid.widget" rel="noopener noreferrer">0000-0002-6400-8007</a></p>
+    <p><img src="/images/orcid_32x32.png" style="width:1.5em" alt="ORCID iD icon"> <a itemprop="sameAs" href="https://orcid.org/0009-0004-7949-8143" target="orcid.widget" rel="noopener noreferrer">0009-0004-7949-8143</a></p>
   </div>
   
   <div class="col-6_sm-12">
