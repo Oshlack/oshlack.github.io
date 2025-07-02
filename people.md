@@ -180,6 +180,9 @@ permalink: /people/
     <p><i class="fas fa-envelope fa-lg"></i> michael.nakai [at] petermac.org</p>
     <p><i class="fab fa-github fa-lg"></i> <a href="https://github.com/michael-nakai">michael-nakai</a></p>
     <p><img src="/images/orcid_32x32.png" style="width:1.5em" alt="ORCID iD icon"> <a itemprop="sameAs" href="https://orcid.org/0000-0002-6400-8007" target="orcid.widget" rel="noopener noreferrer">0000-0002-6400-8007</a></p>
+    <p><i class="fas fa-graduation-cap fa-lg"></i> <a href="https://scholar.google.com.au/citations?hl=en&user=yqdRNz8AAAAJ&view_op=list_works&sortby=pubdate">Google Scholar</a></p>
+    <p><i class="fab fa-bluesky fa-lg"></i> <a href="https://bsky.app/profile/michael-nakai.bsky.social">michael-nakai</a></p>
+
   </div>
   
   <div class="col-6_sm-12">
