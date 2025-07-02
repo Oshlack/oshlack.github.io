@@ -329,6 +329,22 @@ permalink: /people/
   <!------->
 
 
+  <!------->
+  <div class="col-6_sm-12">
+    <div class="headshot"><img src="/images/square_blue.png"/></div>
+  </div>
+  <div class="col-6_sm-12">
+    <h3>Jun Yao Teow</h3>
+    <h4>PhD Student</h4>
+    <h5>Co-supervised with: Dr. Lorey Smith, Prof. Grant McArthur </h5>
+    <p><i class="fas fa-envelope fa-lg"></i> email jun.teow [at] petermac.org</p>
+    <p><i class="fab fa-github fa-lg"></i> <a href="https://github.com/junyao829">github</a></p>
+    <p><i class="fas fa-graduation-cap fa-lg"></i> <a href="https://scholar.google.com.au/citations?user=E7vRYv8AAAAJ&hl=en&authuser=1">Google Scholar</a></p>
+    <p><img src="/images/orcid_32x32.png" style="width:1.5em" alt="ORCID iD icon"> <a itemprop="sameAs" href="https://orcid.org/0009-0009-8126-8490" target="orcid.widget" rel="noopener noreferrer">orcid</a></p>
+  </div>
+  <!------->
+
+
   
 </div>
 
